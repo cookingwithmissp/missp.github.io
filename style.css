@@ -1,0 +1,1432 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<script type="97b2817447e8ef2ba111037e-text/javascript">
+          var subscribersSiteId = 'e3877cfa-d875-4291-a6bc-a2d8535d9c90';
+        </script>
+<script type="97b2817447e8ef2ba111037e-text/javascript" src="https://cdn.subscribers.com/assets/subscribers.js"></script>
+<script src="https://scanova-batch.s3.us-east-2.amazonaws.com/youtube_iframe.js" async type="97b2817447e8ef2ba111037e-text/javascript"></script>
+<title>Scanova Blog | Easiest way to create QR Codes</title>
+
+<meta name="description" content="Easiest way to create QR Codes" />
+<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
+<link rel="canonical" href="https://scanova.io/blog/" />
+<link rel="next" href="https://scanova.io/blog/page/2/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Scanova Blog | Easiest way to create QR Codes" />
+<meta property="og:description" content="Easiest way to create QR Codes" />
+<meta property="og:url" content="https://scanova.io/blog/" />
+<meta property="og:site_name" content="Scanova Blog" />
+<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://scanova.io/blog/#organization","name":"Scanova","url":"https://scanova.io/blog/","sameAs":["https://www.facebook.com/scanovatech","https://www.linkedin.com/company/scanova","https://www.youtube.com/channel/UCHSrteaenPuxL0WjLFmhaEA","https://www.pinterest.com/scanovatech/","https://twitter.com/scanovatech"],"logo":{"@type":"ImageObject","@id":"https://scanova.io/blog/#logo","url":"https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/10/Scanova-Logo_With-Background-3-copy.png","width":858,"height":858,"caption":"Scanova"},"image":{"@id":"https://scanova.io/blog/#logo"}},{"@type":"WebSite","@id":"https://scanova.io/blog/#website","url":"https://scanova.io/blog/","name":"Scanova Blog","description":"Easiest way to create QR Codes","publisher":{"@id":"https://scanova.io/blog/#organization"},"potentialAction":{"@type":"SearchAction","target":"https://scanova.io/blog/?s={search_term_string}","query-input":"required name=search_term_string"}},{"@type":"CollectionPage","@id":"https://scanova.io/blog/#webpage","url":"https://scanova.io/blog/","inLanguage":"en-US","name":"Scanova Blog | Easiest way to create QR Codes","isPartOf":{"@id":"https://scanova.io/blog/#website"},"about":{"@id":"https://scanova.io/blog/#organization"},"description":"Easiest way to create QR Codes"}]}</script>
+
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Scanova Blog &raquo; Feed" href="https://scanova.io/blog/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Scanova Blog &raquo; Comments Feed" href="https://scanova.io/blog/comments/feed/" />
+
+<script type="text/javascript" data-cfasync="false">
+	var mi_version         = '7.10.1';
+	var mi_track_user      = true;
+	var mi_no_track_reason = '';
+	
+	var disableStr = 'ga-disable-UA-42259332-2';
+
+	/* Function to detect opted out users */
+	function __gaTrackerIsOptedOut() {
+		return document.cookie.indexOf(disableStr + '=true') > -1;
+	}
+
+	/* Disable tracking if the opt-out cookie exists. */
+	if ( __gaTrackerIsOptedOut() ) {
+		window[disableStr] = true;
+	}
+
+	/* Opt-out function */
+	function __gaTrackerOptout() {
+	  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+	  window[disableStr] = true;
+	}
+	
+	if ( mi_track_user ) {
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+		__gaTracker('create', 'UA-42259332-2', 'auto');
+		__gaTracker('set', 'forceSSL', true);
+		__gaTracker('send','pageview');
+	} else {
+		console.log( "" );
+		(function() {
+			/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+			var noopfn = function() {
+				return null;
+			};
+			var noopnullfn = function() {
+				return null;
+			};
+			var Tracker = function() {
+				return null;
+			};
+			var p = Tracker.prototype;
+			p.get = noopfn;
+			p.set = noopfn;
+			p.send = noopfn;
+			var __gaTracker = function() {
+				var len = arguments.length;
+				if ( len === 0 ) {
+					return;
+				}
+				var f = arguments[len-1];
+				if ( typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function' ) {
+					console.log( 'Not running function __gaTracker(' + arguments[0] + " ....) because you are not being tracked. " + mi_no_track_reason );
+					return;
+				}
+				try {
+					f.hitCallback();
+				} catch (ex) {
+
+				}
+			};
+			__gaTracker.create = function() {
+				return new Tracker();
+			};
+			__gaTracker.getByName = noopnullfn;
+			__gaTracker.getAll = function() {
+				return [];
+			};
+			__gaTracker.remove = noopfn;
+			window['__gaTracker'] = __gaTracker;
+					})();
+		}
+</script>
+
+<script type="97b2817447e8ef2ba111037e-text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/scanova.io\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.2"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://blog-trycontechnologi.netdna-ssl.com/blog/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='tm_clicktotweet-css' href='https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/plugins/click-to-tweet-by-todaymade/assets/css/styles.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentytwenty-style-css' href='https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/themes/twentytwenty/style.css' type='text/css' media='all' />
+<style id='twentytwenty-style-inline-css' type='text/css'>
+.color-accent,.color-accent-hover:hover,.color-accent-hover:focus,:root .has-accent-color,.has-drop-cap:not(:focus):first-letter,.wp-block-button.is-style-outline,a { color: #da3b38; }blockquote,.border-color-accent,.border-color-accent-hover:hover,.border-color-accent-hover:focus { border-color: #da3b38; }button:not(.toggle),.button,.faux-button,.wp-block-button__link,.wp-block-file .wp-block-file__button,input[type="button"],input[type="reset"],input[type="submit"],.bg-accent,.bg-accent-hover:hover,.bg-accent-hover:focus,:root .has-accent-background-color,.comment-reply-link { background-color: #da3b38; }.fill-children-accent,.fill-children-accent * { fill: #da3b38; }:root .has-background-color,button,.button,.faux-button,.wp-block-button__link,.wp-block-file__button,input[type="button"],input[type="reset"],input[type="submit"],.wp-block-button,.comment-reply-link,.has-background.has-primary-background-color:not(.has-text-color),.has-background.has-primary-background-color *:not(.has-text-color),.has-background.has-accent-background-color:not(.has-text-color),.has-background.has-accent-background-color *:not(.has-text-color) { color: #ffffff; }:root .has-background-background-color { background-color: #ffffff; }body,.entry-title a,:root .has-primary-color { color: #000000; }:root .has-primary-background-color { background-color: #000000; }cite,figcaption,.wp-caption-text,.post-meta,.entry-content .wp-block-archives li,.entry-content .wp-block-categories li,.entry-content .wp-block-latest-posts li,.wp-block-latest-comments__comment-date,.wp-block-latest-posts__post-date,.wp-block-embed figcaption,.wp-block-image figcaption,.wp-block-pullquote cite,.comment-metadata,.comment-respond .comment-notes,.comment-respond .logged-in-as,.pagination .dots,.entry-content hr:not(.has-background),hr.styled-separator,:root .has-secondary-color { color: #6d6d6d; }:root .has-secondary-background-color { background-color: #6d6d6d; }pre,fieldset,input,textarea,table,table *,hr { border-color: #dbdbdb; }caption,code,code,kbd,samp,.wp-block-table.is-style-stripes tbody tr:nth-child(odd),:root .has-subtle-background-background-color { background-color: #dbdbdb; }.wp-block-table.is-style-stripes { border-bottom-color: #dbdbdb; }.wp-block-latest-posts.is-grid li { border-top-color: #dbdbdb; }:root .has-subtle-background-color { color: #dbdbdb; }body:not(.overlay-header) .primary-menu > li > a,body:not(.overlay-header) .primary-menu > li > .icon,.modal-menu a,.footer-menu a, .footer-widgets a,#site-footer .wp-block-button.is-style-outline,.wp-block-pullquote:before,.singular:not(.overlay-header) .entry-header a,.archive-header a,.header-footer-group .color-accent,.header-footer-group .color-accent-hover:hover { color: #da3b38; }.social-icons a,#site-footer button:not(.toggle),#site-footer .button,#site-footer .faux-button,#site-footer .wp-block-button__link,#site-footer .wp-block-file__button,#site-footer input[type="button"],#site-footer input[type="reset"],#site-footer input[type="submit"] { background-color: #da3b38; }.social-icons a,body:not(.overlay-header) .primary-menu ul,.header-footer-group button,.header-footer-group .button,.header-footer-group .faux-button,.header-footer-group .wp-block-button:not(.is-style-outline) .wp-block-button__link,.header-footer-group .wp-block-file__button,.header-footer-group input[type="button"],.header-footer-group input[type="reset"],.header-footer-group input[type="submit"] { color: #ffffff; }#site-header,.footer-nav-widgets-wrapper,#site-footer,.menu-modal,.menu-modal-inner,.search-modal-inner,.archive-header,.singular .entry-header,.singular .featured-media:before,.wp-block-pullquote:before { background-color: #ffffff; }.header-footer-group,body:not(.overlay-header) #site-header .toggle,.menu-modal .toggle { color: #000000; }body:not(.overlay-header) .primary-menu ul { background-color: #000000; }body:not(.overlay-header) .primary-menu > li > ul:after { border-bottom-color: #000000; }body:not(.overlay-header) .primary-menu ul ul:after { border-left-color: #000000; }.site-description,body:not(.overlay-header) .toggle-inner .toggle-text,.widget .post-date,.widget .rss-date,.widget_archive li,.widget_categories li,.widget cite,.widget_pages li,.widget_meta li,.widget_nav_menu li,.powered-by-wordpress,.to-the-top,.singular .entry-header .post-meta,.singular:not(.overlay-header) .entry-header .post-meta a { color: #6d6d6d; }.header-footer-group pre,.header-footer-group fieldset,.header-footer-group input,.header-footer-group textarea,.header-footer-group table,.header-footer-group table *,.footer-nav-widgets-wrapper,#site-footer,.menu-modal nav *,.footer-widgets-outer-wrapper,.footer-top { border-color: #dbdbdb; }.header-footer-group table caption,body:not(.overlay-header) .header-inner .toggle-wrapper::before { background-color: #dbdbdb; }
+</style>
+<link rel='stylesheet' id='twentytwenty-print-style-css' href='https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/themes/twentytwenty/print.css' type='text/css' media='print' />
+<style id='rocket-lazyload-inline-css' type='text/css'>
+.rll-youtube-player{position:relative;padding-bottom:56.23%;height:0;overflow:hidden;max-width:100%;}.rll-youtube-player iframe{position:absolute;top:0;left:0;width:100%;height:100%;z-index:100;background:0 0}.rll-youtube-player img{bottom:0;display:block;left:0;margin:auto;max-width:100%;width:100%;position:absolute;right:0;top:0;border:none;height:auto;cursor:pointer;-webkit-transition:.4s all;-moz-transition:.4s all;transition:.4s all}.rll-youtube-player img:hover{-webkit-filter:brightness(75%)}.rll-youtube-player .play{height:72px;width:72px;left:50%;top:50%;margin-left:-36px;margin-top:-36px;position:absolute;background:url(https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/plugins/rocket-lazy-load/assets/img/youtube.png) no-repeat;cursor:pointer}
+</style>
+<script type="97b2817447e8ef2ba111037e-text/javascript">
+/* <![CDATA[ */
+var monsterinsights_frontend = {"js_events_tracking":"true","download_extensions":"doc,pdf,ppt,zip,xls,docx,pptx,xlsx","inbound_paths":"[]","home_url":"https:\/\/scanova.io\/blog","hash_tracking":"false"};
+/* ]]> */
+</script>
+<script type="97b2817447e8ef2ba111037e-text/javascript" src='https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend.min.js'></script>
+<script type="97b2817447e8ef2ba111037e-text/javascript" src='https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/themes/twentytwenty/assets/js/index.js' async></script>
+<script type="97b2817447e8ef2ba111037e-text/javascript" src='https://blog-trycontechnologi.netdna-ssl.com/blog/wp-includes/js/jquery/jquery.js'></script>
+<script type="97b2817447e8ef2ba111037e-text/javascript" src='https://blog-trycontechnologi.netdna-ssl.com/blog/wp-includes/js/jquery/jquery-migrate.min.js'></script>
+<script type="97b2817447e8ef2ba111037e-text/javascript" src='https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/themes/twentytwenty/assets/js/main.js'></script>
+<link rel='https://api.w.org/' href='https://scanova.io/blog/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://scanova.io/blog/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 5.2.2" />
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@graph":[{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"QR CODE TOPICS","url":"https:\/\/scanova.io\/blog\/blog\/category\/qr-code-topics\/?q=about-qr-codes"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"ABOUT QR CODES","url":"https:\/\/scanova.io\/blog\/blog\/category\/qr-code-topics\/?q=about-qr-codes"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"GENERATION","url":"https:\/\/scanova.io\/blog\/blog\/category\/qr-code-topics\/?q=generation"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"DESIGN","url":"https:\/\/scanova.io\/blog\/blog\/category\/qr-code-topics\/?q=design"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"MANAGEMENT","url":"https:\/\/scanova.io\/blog\/blog\/category\/qr-code-topics\/?q=management"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"OTHERS","url":"https:\/\/scanova.io\/blog\/blog\/category\/qr-code-industry\/?q=industry-others"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"INDUSTRY","url":"https:\/\/scanova.io\/blog\/blog\/category\/qr-code-industry\/?q=marketing"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"MARKETING","url":"https:\/\/scanova.io\/blog\/blog\/category\/qr-code-industry\/?q=marketing"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"EDUCATION","url":"https:\/\/scanova.io\/blog\/blog\/category\/qr-code-industry\/?q=education"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"NON-PROFIT","url":"https:\/\/scanova.io\/blog\/blog\/category\/qr-code-industry\/?q=non-profit"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"RETAIL","url":"https:\/\/scanova.io\/blog\/blog\/category\/qr-code-industry\/?q=retail"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"PRODUCTS","url":"https:\/\/scanova.io\/blog\/blog\/category\/qr-code-industry\/?q=products"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"PUBLIC","url":"https:\/\/scanova.io\/blog\/blog\/category\/qr-code-industry\/?q=public"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"GEOGRAPHY","url":"https:\/\/scanova.io\/blog\/blog\/category\/qr-code-geography\/?q=americas"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"AMERICAS","url":"https:\/\/scanova.io\/blog\/blog\/category\/qr-code-geography\/?q=americas"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"EUROPE","url":"https:\/\/scanova.io\/blog\/blog\/category\/qr-code-geography\/?q=europe"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"ASIA","url":"https:\/\/scanova.io\/blog\/blog\/category\/qr-code-geography\/?q=asia"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"MIDDLE EAST","url":"https:\/\/scanova.io\/blog\/blog\/category\/qr-code-geography\/?q=middle-east"},{"@context":"https:\/\/schema.org","@type":"SiteNavigationElement","id":"site-navigation","name":"REST OF THE WORLD","url":"https:\/\/scanova.io\/blog\/blog\/category\/qr-code-geography\/?q=rest-world"}]}</script> <script type="97b2817447e8ef2ba111037e-text/javascript">document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );</script>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+<link rel="icon" href="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2016/12/cropped-cropped-scanova_nobg_logo-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2016/12/cropped-cropped-scanova_nobg_logo-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2016/12/cropped-cropped-scanova_nobg_logo-180x180.png" />
+<meta name="msapplication-TileImage" content="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2016/12/cropped-cropped-scanova_nobg_logo-270x270.png" />
+<style type="text/css" id="wp-custom-css">
+			.single-featured-image-header {
+display: none !important;
+}
+p .more-link{
+color:#006B3C;
+background: #ebebeb;
+text-decoration:none;
+padding : 0px 20px 15px 20px;
+display: inline-block;
+font-size:16px;
+font-weight:600;
+}
+
+
+
+
+/* BOOTSTRAP */
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+*:before,
+*:after {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+input,
+button,
+select,
+textarea {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+figure {
+  margin: 0;
+}
+img {
+  vertical-align: middle;
+}
+.img-responsive,
+.thumbnail > img,
+.thumbnail a > img,
+.carousel-inner > .item > img,
+.carousel-inner > .item > a > img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.container {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+@media (min-width: 768px) {
+  .container {
+    width: 750px;
+  }
+}
+@media (min-width: 992px) {
+  .container {
+    width: 970px;
+  }
+}
+@media (min-width: 1200px) {
+  .container {
+    width: 1170px;
+  }
+}
+.container-fluid {
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+}
+.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
+  float: left;
+}
+.col-xs-12 {
+  width: 100%;
+}
+.col-xs-11 {
+  width: 91.66666667%;
+}
+.col-xs-10 {
+  width: 83.33333333%;
+}
+.col-xs-9 {
+  width: 75%;
+}
+.col-xs-8 {
+  width: 66.66666667%;
+}
+.col-xs-7 {
+  width: 58.33333333%;
+}
+.col-xs-6 {
+  width: 50%;
+}
+.col-xs-5 {
+  width: 41.66666667%;
+}
+.col-xs-4 {
+  width: 33.33333333%;
+}
+.col-xs-3 {
+  width: 25%;
+}
+.col-xs-2 {
+  width: 16.66666667%;
+}
+.col-xs-1 {
+  width: 8.33333333%;
+}
+
+@media (min-width: 992px) {
+  .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12 {
+    float: left;
+  }
+  .col-md-12 {
+    width: 100%;
+  }
+  .col-md-11 {
+    width: 91.66666667%;
+  }
+  .col-md-10 {
+    width: 83.33333333%;
+  }
+  .col-md-9 {
+    width: 75%;
+  }
+  .col-md-8 {
+    width: 66.66666667%;
+  }
+  .col-md-7 {
+    width: 58.33333333%;
+  }
+  .col-md-6 {
+    width: 50%;
+  }
+  .col-md-5 {
+    width: 41.66666667%;
+  }
+  .col-md-4 {
+    width: 33.33333333%;
+  }
+  .col-md-3 {
+    width: 25%;
+  }
+  .col-md-2 {
+    width: 16.66666667%;
+  }
+  .col-md-1 {
+    width: 8.33333333%;
+  }
+
+}
+
+.clearfix:before,
+.clearfix:after,
+.dl-horizontal dd:before,
+.dl-horizontal dd:after,
+.container:before,
+.container:after,
+.container-fluid:before,
+.container-fluid:after,
+.row:before,
+.row:after,
+.form-horizontal .form-group:before,
+.form-horizontal .form-group:after,
+.btn-toolbar:before,
+.btn-toolbar:after,
+.btn-group-vertical > .btn-group:before,
+.btn-group-vertical > .btn-group:after,
+.nav:before,
+.nav:after,
+.navbar:before,
+.navbar:after,
+.navbar-header:before,
+.navbar-header:after,
+.navbar-collapse:before,
+.navbar-collapse:after,
+.pager:before,
+.pager:after,
+.panel-body:before,
+.panel-body:after,
+.modal-header:before,
+.modal-header:after,
+.modal-footer:before,
+.modal-footer:after {
+  display: table;
+  content: " ";
+}
+.clearfix:after,
+.dl-horizontal dd:after,
+.container:after,
+.container-fluid:after,
+.row:after,
+.form-horizontal .form-group:after,
+.btn-toolbar:after,
+.btn-group-vertical > .btn-group:after,
+.nav:after,
+.navbar:after,
+.navbar-header:after,
+.navbar-collapse:after,
+.pager:after,
+.panel-body:after,
+.modal-header:after,
+.modal-footer:after {
+  clear: both;
+}
+.center-block {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+.pull-right {
+  float: right !important;
+}
+.pull-left {
+  float: left !important;
+}
+
+
+/* CSS FOR CTA */
+
+@media screen and  (max-width: 480px){
+    #cta-image-mobile-desktop{
+        width:190px;
+        height:190px;
+
+    }
+}
+@media screen and  (min-width: 481px){
+    #cta-image-mobile-desktop{
+        width:160px;
+        height:160px;
+    }
+}
+
+.main-container {
+    padding: 25px;
+    background: #f1f1f1;
+}
+
+
+/*.cat-head-image > img {
+    display: block;
+    margin-top: 4%;
+    margin-bottom: 3%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: auto;
+    max-width: 60%;
+}*/
+@media screen and (min-width : 481px){
+    .cat-head-image > img {
+        display: block;
+        margin-top: 3%;
+        /*margin-bottom: 3%;*/
+        margin-left: auto;
+        margin-right: auto;
+        height: 300px;
+        width: auto;
+        max-width: 60%;
+    }
+}
+
+@media screen and  (max-width: 480px){
+    .cat-head-image > img {
+        display: block;
+        margin-top: 1em;
+        /*margin-bottom: ;*/
+        margin-left: auto;
+        margin-right: auto;
+        /*height: 300px;*/
+        width: auto;
+        /*max-width: 60%;*/
+    }
+}
+
+
+
+.short-code-parent {
+    padding: 0px;
+}
+
+.short-code-parent img {
+    max-height: 250px;
+}
+
+.short-code-parent .image-container {
+    display: inline-block;
+    width: 34%;
+    text-align: center;
+    float: right;
+    padding: 5px;
+    background-color: #ffffff;
+    border-radius: 11px;
+}
+
+.short-code-parent .cta-text {
+    display: block;
+    width: 100%;
+    float: left;
+}
+
+.short-code-parent .cta-text p {
+    padding: 0px !important;
+    font-size: 14px !important;
+    font-family: Montserrat !important;
+    text-align: center !important;
+    margin-bottom: 0px !important;
+    color: #ffffff !important;
+}
+
+.short-code-parent .cta-text .main-cta {
+    padding: 18px 18px 0px 18px;
+    text-align: center;
+    margin-top: 18px;
+}
+
+.short-code-parent .cta-text .main-cta a {
+    padding: 13px;
+    border-radius: 2px;
+    color: #c0392b;
+    font-size: 14px;
+    display: block;
+    font-family: Montserrat;
+    background-color: #ffffff !important;
+    text-transform: uppercase;
+}
+
+#subs-cta-success {
+    top: 25%;
+    outline: none;
+}
+
+
+.ctac-parent {
+    margin: 0px;
+}
+
+.ctac-content {
+    float: left;
+    width: 60%;
+    display: block;
+}
+
+.ctac-image {
+    display: block;
+    float: right;
+    height: 134px;
+}
+
+.ctac-image img {
+    height: 134px;
+}
+
+.ctac-heading > h2 {
+    font-family: Montserrat !important;
+    font-size: 105% !important;
+    text-align: center !important;
+    margin: 0px !important;
+    line-height:150%;
+}
+
+.main-ctac a {
+    display: block;
+    padding: 13px;
+    text-align: center;
+    margin-top: 15px;
+    font-family: Montserrat !important;
+    font-size: 14px !important;
+}
+
+.cta-compare-white {
+    border: 1px solid #c0392b;
+    padding: 25px 35px;
+    max-width: 700px;
+    margin: auto auto 30px;
+}
+
+.cta-compare-white .ctac-heading > h2 {
+    color: #c0392b !important;
+}
+
+.cta-compare-white .main-ctac a {
+    background-color: #c0392b !important;
+    color: #ffffff !important;
+}
+
+.cta-compare-red {
+    border: 0px;
+    padding: 25px 35px;
+    max-width: 700px;
+    margin: auto auto 30px;
+    background-color: #c0392b !important;
+}
+
+.cta-compare-red .ctac-heading > h2 {
+    color: #ffffff !important;
+}
+
+.cta-compare-red .main-ctac a {
+    background-color: #ffffff;
+    color: #c0392b !important;
+}
+
+.sub-heading{
+color:#FFFFFF;
+font-size:70%;
+text-align:center;
+}
+
+.ctac-heading h2{
+padding-top:0px;
+}
+
+
+.subscribe-box {
+    background: #c0392b;
+    float: none;
+    margin: 5% auto 0 auto;
+    padding: 2% 7%;
+}
+
+.subs-message {
+    color: #ffffff;
+    font-size: 110%;
+    font-family: Montserrat;
+    text-align: center;
+}
+
+#subscribe_button:hover {
+  border-color: white !important;
+  background-color: white !important;
+
+}
+
+#subscribe_button{
+    background:white;
+}
+
+.subs-button, .subs-button:hover, .subs-button:focus {
+    border-radius: 0px;
+    color: #c0392b;
+    font-family: Montserrat;
+    font-size: 14px;
+
+}
+
+.subs-limit {
+    color: #ffffff;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+}		</style>
+<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript>
+</head>
+<body class="home blog custom-background wp-schema-pro-1.4.1 enable-search-modal has-no-pagination showing-comments show-avatars footer-top-visible reduced-spacing">
+<a class="skip-link screen-reader-text" href="#site-content">Skip to the content</a>
+<header id="site-header" class="header-footer-group" role="banner">
+<div class="header-inner section-inner">
+<div class="header-titles-wrapper">
+<button class="toggle search-toggle mobile-search-toggle" data-toggle-target=".search-modal" data-toggle-body-class="showing-search-modal" data-set-focus=".search-modal .search-field" aria-expanded="false">
+<span class="toggle-inner">
+<span class="toggle-icon">
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23"><path d="M38.710696,48.0601792 L43,52.3494831 L41.3494831,54 L37.0601792,49.710696 C35.2632422,51.1481185 32.9839107,52.0076499 30.5038249,52.0076499 C24.7027226,52.0076499 20,47.3049272 20,41.5038249 C20,35.7027226 24.7027226,31 30.5038249,31 C36.3049272,31 41.0076499,35.7027226 41.0076499,41.5038249 C41.0076499,43.9839107 40.1481185,46.2632422 38.710696,48.0601792 Z M36.3875844,47.1716785 C37.8030221,45.7026647 38.6734666,43.7048964 38.6734666,41.5038249 C38.6734666,36.9918565 35.0157934,33.3341833 30.5038249,33.3341833 C25.9918565,33.3341833 22.3341833,36.9918565 22.3341833,41.5038249 C22.3341833,46.0157934 25.9918565,49.6734666 30.5038249,49.6734666 C32.7048964,49.6734666 34.7026647,48.8030221 36.1716785,47.3875844 C36.2023931,47.347638 36.2360451,47.3092237 36.2726343,47.2726343 C36.3092237,47.2360451 36.347638,47.2023931 36.3875844,47.1716785 Z" transform="translate(-20 -31)" /></svg> </span>
+<span class="toggle-text">Search</span>
+</span>
+</button>
+<div class="header-titles">
+<h1 class="site-title"><a href="https://scanova.io/blog/">Scanova Blog</a></h1><div class="site-description">Easiest way to create QR Codes</div>
+</div>
+<button class="toggle nav-toggle mobile-nav-toggle" data-toggle-target=".menu-modal" data-toggle-body-class="showing-menu-modal" aria-expanded="false" data-set-focus=".close-nav-toggle">
+<span class="toggle-inner">
+<span class="toggle-icon">
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="26" height="7" viewBox="0 0 26 7"><path fill-rule="evenodd" d="M332.5,45 C330.567003,45 329,43.4329966 329,41.5 C329,39.5670034 330.567003,38 332.5,38 C334.432997,38 336,39.5670034 336,41.5 C336,43.4329966 334.432997,45 332.5,45 Z M342,45 C340.067003,45 338.5,43.4329966 338.5,41.5 C338.5,39.5670034 340.067003,38 342,38 C343.932997,38 345.5,39.5670034 345.5,41.5 C345.5,43.4329966 343.932997,45 342,45 Z M351.5,45 C349.567003,45 348,43.4329966 348,41.5 C348,39.5670034 349.567003,38 351.5,38 C353.432997,38 355,39.5670034 355,41.5 C355,43.4329966 353.432997,45 351.5,45 Z" transform="translate(-329 -38)" /></svg> </span>
+<span class="toggle-text">Menu</span>
+</span>
+</button>
+</div>
+<div class="header-navigation-wrapper">
+<nav class="primary-menu-wrapper" aria-label="Horizontal" role="navigation">
+<ul class="primary-menu reset-list-style">
+<li id="menu-item-3552" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3552"><a href="https://scanova.io/">HOME</a></li>
+<li id="menu-item-3553" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3553"><a href="https://scanova.io/design-qr-code-generator.html">QR CODE GENERATOR</a></li>
+<li id="menu-item-3554" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-3554"><a href="https://scanova.io/blog/" aria-current="page">BLOG</a></li>
+<li id="menu-item-9876" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9876"><a href="https://app.scanova.io/api/accounts/register/">SIGNUP</a></li>
+<li id="menu-item-9875" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9875"><a href="https://app.scanova.io/api/accounts/login/">LOGIN</a></li>
+</ul>
+</nav>
+<div class="header-toggles hide-no-js">
+<div class="toggle-wrapper nav-toggle-wrapper has-expanded-menu">
+<button class="toggle nav-toggle desktop-nav-toggle" data-toggle-target=".menu-modal" data-toggle-body-class="showing-menu-modal" aria-expanded="false" data-set-focus=".close-nav-toggle">
+<span class="toggle-inner">
+<span class="toggle-text">Menu</span>
+<span class="toggle-icon">
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="26" height="7" viewBox="0 0 26 7"><path fill-rule="evenodd" d="M332.5,45 C330.567003,45 329,43.4329966 329,41.5 C329,39.5670034 330.567003,38 332.5,38 C334.432997,38 336,39.5670034 336,41.5 C336,43.4329966 334.432997,45 332.5,45 Z M342,45 C340.067003,45 338.5,43.4329966 338.5,41.5 C338.5,39.5670034 340.067003,38 342,38 C343.932997,38 345.5,39.5670034 345.5,41.5 C345.5,43.4329966 343.932997,45 342,45 Z M351.5,45 C349.567003,45 348,43.4329966 348,41.5 C348,39.5670034 349.567003,38 351.5,38 C353.432997,38 355,39.5670034 355,41.5 C355,43.4329966 353.432997,45 351.5,45 Z" transform="translate(-329 -38)" /></svg> </span>
+</span>
+</button>
+</div>
+<div class="toggle-wrapper search-toggle-wrapper">
+<button class="toggle search-toggle desktop-search-toggle" data-toggle-target=".search-modal" data-toggle-body-class="showing-search-modal" data-set-focus=".search-modal .search-field" aria-expanded="false">
+<span class="toggle-inner">
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="23" height="23" viewBox="0 0 23 23"><path d="M38.710696,48.0601792 L43,52.3494831 L41.3494831,54 L37.0601792,49.710696 C35.2632422,51.1481185 32.9839107,52.0076499 30.5038249,52.0076499 C24.7027226,52.0076499 20,47.3049272 20,41.5038249 C20,35.7027226 24.7027226,31 30.5038249,31 C36.3049272,31 41.0076499,35.7027226 41.0076499,41.5038249 C41.0076499,43.9839107 40.1481185,46.2632422 38.710696,48.0601792 Z M36.3875844,47.1716785 C37.8030221,45.7026647 38.6734666,43.7048964 38.6734666,41.5038249 C38.6734666,36.9918565 35.0157934,33.3341833 30.5038249,33.3341833 C25.9918565,33.3341833 22.3341833,36.9918565 22.3341833,41.5038249 C22.3341833,46.0157934 25.9918565,49.6734666 30.5038249,49.6734666 C32.7048964,49.6734666 34.7026647,48.8030221 36.1716785,47.3875844 C36.2023931,47.347638 36.2360451,47.3092237 36.2726343,47.2726343 C36.3092237,47.2360451 36.347638,47.2023931 36.3875844,47.1716785 Z" transform="translate(-20 -31)" /></svg>  <span class="toggle-text">Search</span>
+</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+<div class="search-modal cover-modal header-footer-group" data-modal-target-string=".search-modal">
+<div class="search-modal-inner modal-inner">
+<div class="section-inner">
+<form role="search" aria-label="Search for:" method="get" class="search-form" action="https://scanova.io/blog/">
+<label for="search-form-1">
+<span class="screen-reader-text">Search for:</span>
+<input type="search" id="search-form-1" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+</label>
+<input type="submit" class="search-submit" value="Search" />
+</form>
+<button class="toggle search-untoggle close-search-toggle fill-children-current-color" data-toggle-target=".search-modal" data-toggle-body-class="showing-search-modal" data-set-focus=".search-modal .search-field" aria-expanded="false">
+<span class="screen-reader-text">Close search</span>
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><polygon fill="" fill-rule="evenodd" points="6.852 7.649 .399 1.195 1.445 .149 7.899 6.602 14.352 .149 15.399 1.195 8.945 7.649 15.399 14.102 14.352 15.149 7.899 8.695 1.445 15.149 .399 14.102" /></svg> </button>
+</div>
+</div>
+</div>
+</header>
+<div class="menu-modal cover-modal header-footer-group" data-modal-target-string=".menu-modal">
+<div class="menu-modal-inner modal-inner">
+<div class="menu-wrapper section-inner">
+<div class="menu-top">
+<button class="toggle close-nav-toggle fill-children-current-color" data-toggle-target=".menu-modal" data-toggle-body-class="showing-menu-modal" aria-expanded="false" data-set-focus=".menu-modal">
+<span class="toggle-text">Close Menu</span>
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16"><polygon fill="" fill-rule="evenodd" points="6.852 7.649 .399 1.195 1.445 .149 7.899 6.602 14.352 .149 15.399 1.195 8.945 7.649 15.399 14.102 14.352 15.149 7.899 8.695 1.445 15.149 .399 14.102" /></svg> </button>
+<nav class="expanded-menu" aria-label="Expanded" role="navigation">
+<ul class="modal-menu reset-list-style">
+<li id="menu-item-3555" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3555"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-topics/?q=about-qr-codes">QR CODE TOPICS</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-3555 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div>
+<ul class="sub-menu">
+<li id="menu-item-3556" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3556"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-topics/?q=about-qr-codes">ABOUT QR CODES</a></div></li>
+<li id="menu-item-3557" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3557"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-topics/?q=generation">GENERATION</a></div></li>
+<li id="menu-item-3558" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3558"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-topics/?q=design">DESIGN</a></div></li>
+<li id="menu-item-3559" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3559"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-topics/?q=management">MANAGEMENT</a></div></li>
+<li id="menu-item-3560" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3560"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-topics/?q=other-topics">OTHERS</a></div></li>
+</ul>
+</li>
+<li id="menu-item-3561" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3561"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-industry/?q=marketing">INDUSTRY</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-3561 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div>
+<ul class="sub-menu">
+<li id="menu-item-3562" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3562"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-industry/?q=marketing">MARKETING</a></div></li>
+<li id="menu-item-3563" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3563"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-industry/?q=education">EDUCATION</a></div></li>
+<li id="menu-item-3565" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3565"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-industry/?q=non-profit">NON-PROFIT</a></div></li>
+<li id="menu-item-3564" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3564"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-industry/?q=retail">RETAIL</a></div></li>
+<li id="menu-item-3566" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3566"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-industry/?q=products">PRODUCTS</a></div></li>
+<li id="menu-item-3567" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3567"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-industry/?q=public">PUBLIC</a></div></li>
+<li id="menu-item-3568" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3568"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-industry/?q=industry-others">OTHERS</a></div></li>
+</ul>
+</li>
+<li id="menu-item-3569" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3569"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-geography/?q=americas">GEOGRAPHY</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-3569 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div>
+<ul class="sub-menu">
+<li id="menu-item-3570" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3570"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-geography/?q=americas">AMERICAS</a></div></li>
+<li id="menu-item-3571" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3571"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-geography/?q=europe">EUROPE</a></div></li>
+<li id="menu-item-3572" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3572"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-geography/?q=asia">ASIA</a></div></li>
+<li id="menu-item-3573" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3573"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-geography/?q=middle-east">MIDDLE EAST</a></div></li>
+<li id="menu-item-3574" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3574"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-geography/?q=rest-world">REST OF THE WORLD</a></div></li>
+</ul>
+</li>
+</ul>
+</nav>
+<nav class="mobile-menu" aria-label="Mobile" role="navigation">
+<ul class="modal-menu reset-list-style">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3555"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-topics/?q=about-qr-codes">QR CODE TOPICS</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-3555 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3556"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-topics/?q=about-qr-codes">ABOUT QR CODES</a></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3557"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-topics/?q=generation">GENERATION</a></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3558"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-topics/?q=design">DESIGN</a></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3559"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-topics/?q=management">MANAGEMENT</a></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3560"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-topics/?q=other-topics">OTHERS</a></div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3561"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-industry/?q=marketing">INDUSTRY</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-3561 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3562"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-industry/?q=marketing">MARKETING</a></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3563"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-industry/?q=education">EDUCATION</a></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3565"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-industry/?q=non-profit">NON-PROFIT</a></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3564"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-industry/?q=retail">RETAIL</a></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3566"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-industry/?q=products">PRODUCTS</a></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3567"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-industry/?q=public">PUBLIC</a></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3568"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-industry/?q=industry-others">OTHERS</a></div></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-3569"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-geography/?q=americas">GEOGRAPHY</a><button class="toggle sub-menu-toggle fill-children-current-color" data-toggle-target=".menu-modal .menu-item-3569 > .sub-menu" data-toggle-type="slidetoggle" data-toggle-duration="250" aria-expanded="false"><span class="screen-reader-text">Show sub menu</span><svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="20" height="12" viewBox="0 0 20 12"><polygon fill="" fill-rule="evenodd" points="1319.899 365.778 1327.678 358 1329.799 360.121 1319.899 370.021 1310 360.121 1312.121 358" transform="translate(-1310 -358)" /></svg></button></div>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3570"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-geography/?q=americas">AMERICAS</a></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3571"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-geography/?q=europe">EUROPE</a></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3572"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-geography/?q=asia">ASIA</a></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3573"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-geography/?q=middle-east">MIDDLE EAST</a></div></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3574"><div class="ancestor-wrapper"><a href="https://scanova.io/blog/blog/category/qr-code-geography/?q=rest-world">REST OF THE WORLD</a></div></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div>
+<div class="menu-bottom">
+</div>
+</div>
+</div>
+</div>
+<main id="site-content" role="main">
+<article class="post-11006 post type-post status-publish format-standard has-post-thumbnail hentry category-qr-code" id="post-11006">
+<header class="entry-header has-text-align-center">
+<div class="entry-header-inner section-inner medium">
+<div class="entry-categories">
+<span class="screen-reader-text">Categories</span>
+<div class="entry-categories-inner">
+<a href="https://scanova.io/blog/blog/category/qr-code/" rel="category tag">QR Codes</a> </div>
+</div>
+<h2 class="entry-title heading-size-1"><a href="https://scanova.io/blog/blog/2020/07/17/whatsapp-business-qr-code/">WhatsApp Business QR Code: Make It Easy For Customers To Contact You</a></h2>
+<div class="post-meta-wrapper post-meta-single post-meta-single-top">
+<ul class="post-meta">
+<li class="post-author meta-wrapper">
+<span class="meta-icon">
+<span class="screen-reader-text">Post author</span>
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20"><path fill="" d="M18,19 C18,19.5522847 17.5522847,20 17,20 C16.4477153,20 16,19.5522847 16,19 L16,17 C16,15.3431458 14.6568542,14 13,14 L5,14 C3.34314575,14 2,15.3431458 2,17 L2,19 C2,19.5522847 1.55228475,20 1,20 C0.44771525,20 0,19.5522847 0,19 L0,17 C0,14.2385763 2.23857625,12 5,12 L13,12 C15.7614237,12 18,14.2385763 18,17 L18,19 Z M9,10 C6.23857625,10 4,7.76142375 4,5 C4,2.23857625 6.23857625,0 9,0 C11.7614237,0 14,2.23857625 14,5 C14,7.76142375 11.7614237,10 9,10 Z M9,8 C10.6568542,8 12,6.65685425 12,5 C12,3.34314575 10.6568542,2 9,2 C7.34314575,2 6,3.34314575 6,5 C6,6.65685425 7.34314575,8 9,8 Z" /></svg> </span>
+<span class="meta-text">
+By <a href="https://scanova.io/blog/blog/author/saumyabhatia/">Saumya Bhatia</a> </span>
+</li>
+<li class="post-date meta-wrapper">
+<span class="meta-icon">
+<span class="screen-reader-text">Post date</span>
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z" /></svg> </span>
+<span class="meta-text">
+<a href="https://scanova.io/blog/blog/2020/07/17/whatsapp-business-qr-code/">July 17, 2020</a>
+</span>
+</li>
+<li class="post-comment-link meta-wrapper">
+<span class="meta-icon">
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19"><path d="M9.43016863,13.2235931 C9.58624731,13.094699 9.7823475,13.0241935 9.98476849,13.0241935 L15.0564516,13.0241935 C15.8581553,13.0241935 16.5080645,12.3742843 16.5080645,11.5725806 L16.5080645,3.44354839 C16.5080645,2.64184472 15.8581553,1.99193548 15.0564516,1.99193548 L3.44354839,1.99193548 C2.64184472,1.99193548 1.99193548,2.64184472 1.99193548,3.44354839 L1.99193548,11.5725806 C1.99193548,12.3742843 2.64184472,13.0241935 3.44354839,13.0241935 L5.76612903,13.0241935 C6.24715123,13.0241935 6.63709677,13.4141391 6.63709677,13.8951613 L6.63709677,15.5301903 L9.43016863,13.2235931 Z M3.44354839,14.766129 C1.67980032,14.766129 0.25,13.3363287 0.25,11.5725806 L0.25,3.44354839 C0.25,1.67980032 1.67980032,0.25 3.44354839,0.25 L15.0564516,0.25 C16.8201997,0.25 18.25,1.67980032 18.25,3.44354839 L18.25,11.5725806 C18.25,13.3363287 16.8201997,14.766129 15.0564516,14.766129 L10.2979143,14.766129 L6.32072889,18.0506004 C5.75274472,18.5196577 4.89516129,18.1156602 4.89516129,17.3790323 L4.89516129,14.766129 L3.44354839,14.766129 Z" /></svg> </span>
+<span class="meta-text">
+<a href="https://scanova.io/blog/blog/2020/07/17/whatsapp-business-qr-code/#respond">No Comments<span class="screen-reader-text"> on WhatsApp Business QR Code: Make It Easy For Customers To Contact You</span></a> </span>
+</li>
+</ul>
+</div>
+</div>
+</header>
+<figure class="featured-media">
+<div class="featured-media-inner section-inner medium">
+<img loading="lazy" width="1200" height="720" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20720'%3E%3C/svg%3E" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="WhatsApp business QR Code" data-lazy-srcset="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/07/whatsapp-business-qr-code-2-1200x720.jpg 1200w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/07/whatsapp-business-qr-code-2-300x180.jpg 300w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/07/whatsapp-business-qr-code-2-768x461.jpg 768w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/07/whatsapp-business-qr-code-2-1024x614.jpg 1024w" data-lazy-sizes="(max-width: 1200px) 100vw, 1200px" data-lazy-src="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/07/whatsapp-business-qr-code-2-1200x720.jpg" /><noscript><img width="1200" height="720" src="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/07/whatsapp-business-qr-code-2-1200x720.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="WhatsApp business QR Code" srcset="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/07/whatsapp-business-qr-code-2-1200x720.jpg 1200w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/07/whatsapp-business-qr-code-2-300x180.jpg 300w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/07/whatsapp-business-qr-code-2-768x461.jpg 768w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/07/whatsapp-business-qr-code-2-1024x614.jpg 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></noscript>
+</div>
+</figure>
+<div class="post-inner thin ">
+<div class="entry-content">
+<p>WhatsApp is one of the most popular messaging apps today. I am sure you must have installed WhatsApp on your phone. And use this app to text, voice call, or video call your friends, family, relatives, and other acquaintances. You also know that you can make a business account on WhatsApp. That is, an account [&hellip;]</p>
+</div>
+</div>
+<div class="section-inner">
+</div>
+</article>
+<hr class="post-separator styled-separator is-style-wide section-inner" aria-hidden="true" />
+<article class="post-10606 post type-post status-publish format-standard has-post-thumbnail hentry category-qr-code" id="post-10606">
+<header class="entry-header has-text-align-center">
+<div class="entry-header-inner section-inner medium">
+<div class="entry-categories">
+<span class="screen-reader-text">Categories</span>
+<div class="entry-categories-inner">
+<a href="https://scanova.io/blog/blog/category/qr-code/" rel="category tag">QR Codes</a> </div>
+</div>
+<h2 class="entry-title heading-size-1"><a href="https://scanova.io/blog/blog/2020/04/10/pinterest-qr-code/">Pinterest QR Code: Share Your Pinterest Profile Easily</a></h2>
+<div class="post-meta-wrapper post-meta-single post-meta-single-top">
+<ul class="post-meta">
+<li class="post-author meta-wrapper">
+<span class="meta-icon">
+<span class="screen-reader-text">Post author</span>
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20"><path fill="" d="M18,19 C18,19.5522847 17.5522847,20 17,20 C16.4477153,20 16,19.5522847 16,19 L16,17 C16,15.3431458 14.6568542,14 13,14 L5,14 C3.34314575,14 2,15.3431458 2,17 L2,19 C2,19.5522847 1.55228475,20 1,20 C0.44771525,20 0,19.5522847 0,19 L0,17 C0,14.2385763 2.23857625,12 5,12 L13,12 C15.7614237,12 18,14.2385763 18,17 L18,19 Z M9,10 C6.23857625,10 4,7.76142375 4,5 C4,2.23857625 6.23857625,0 9,0 C11.7614237,0 14,2.23857625 14,5 C14,7.76142375 11.7614237,10 9,10 Z M9,8 C10.6568542,8 12,6.65685425 12,5 C12,3.34314575 10.6568542,2 9,2 C7.34314575,2 6,3.34314575 6,5 C6,6.65685425 7.34314575,8 9,8 Z" /></svg> </span>
+<span class="meta-text">
+By <a href="https://scanova.io/blog/blog/author/yashikatangri/">Yashika Tangri</a> </span>
+</li>
+<li class="post-date meta-wrapper">
+<span class="meta-icon">
+<span class="screen-reader-text">Post date</span>
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z" /></svg> </span>
+<span class="meta-text">
+<a href="https://scanova.io/blog/blog/2020/04/10/pinterest-qr-code/">April 10, 2020</a>
+</span>
+</li>
+<li class="post-comment-link meta-wrapper">
+<span class="meta-icon">
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19"><path d="M9.43016863,13.2235931 C9.58624731,13.094699 9.7823475,13.0241935 9.98476849,13.0241935 L15.0564516,13.0241935 C15.8581553,13.0241935 16.5080645,12.3742843 16.5080645,11.5725806 L16.5080645,3.44354839 C16.5080645,2.64184472 15.8581553,1.99193548 15.0564516,1.99193548 L3.44354839,1.99193548 C2.64184472,1.99193548 1.99193548,2.64184472 1.99193548,3.44354839 L1.99193548,11.5725806 C1.99193548,12.3742843 2.64184472,13.0241935 3.44354839,13.0241935 L5.76612903,13.0241935 C6.24715123,13.0241935 6.63709677,13.4141391 6.63709677,13.8951613 L6.63709677,15.5301903 L9.43016863,13.2235931 Z M3.44354839,14.766129 C1.67980032,14.766129 0.25,13.3363287 0.25,11.5725806 L0.25,3.44354839 C0.25,1.67980032 1.67980032,0.25 3.44354839,0.25 L15.0564516,0.25 C16.8201997,0.25 18.25,1.67980032 18.25,3.44354839 L18.25,11.5725806 C18.25,13.3363287 16.8201997,14.766129 15.0564516,14.766129 L10.2979143,14.766129 L6.32072889,18.0506004 C5.75274472,18.5196577 4.89516129,18.1156602 4.89516129,17.3790323 L4.89516129,14.766129 L3.44354839,14.766129 Z" /></svg> </span>
+<span class="meta-text">
+<a href="https://scanova.io/blog/blog/2020/04/10/pinterest-qr-code/#respond">No Comments<span class="screen-reader-text"> on Pinterest QR Code: Share Your Pinterest Profile Easily</span></a> </span>
+</li>
+</ul>
+</div>
+</div>
+</header>
+<figure class="featured-media">
+<div class="featured-media-inner section-inner medium">
+<img loading="lazy" width="600" height="440" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20600%20440'%3E%3C/svg%3E" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Pinterest QR Code: Pincode" data-lazy-srcset="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/04/Pinterest-qr-code-7.png 600w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/04/Pinterest-qr-code-7-300x220.png 300w" data-lazy-sizes="(max-width: 600px) 100vw, 600px" data-lazy-src="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/04/Pinterest-qr-code-7.png" /><noscript><img width="600" height="440" src="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/04/Pinterest-qr-code-7.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Pinterest QR Code: Pincode" srcset="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/04/Pinterest-qr-code-7.png 600w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/04/Pinterest-qr-code-7-300x220.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></noscript>
+</div>
+</figure>
+<div class="post-inner thin ">
+<div class="entry-content">
+<p>Pinterest is among the popular and widely used apps in the world today. Founded in 2010, Pinterest helps people look for visual ideas and inspirations. That means it helps you find ideas for hobbies, decor, style inspirations, and a lot more. And these ideas are called Pins. Here’s how it works: A. How Pinterest works [&hellip;]</p>
+</div>
+</div>
+<div class="section-inner">
+</div>
+</article>
+<hr class="post-separator styled-separator is-style-wide section-inner" aria-hidden="true" />
+<article class="post-4603 post type-post status-publish format-standard has-post-thumbnail hentry category-americas tag-qr-code-news" id="post-4603">
+<header class="entry-header has-text-align-center">
+<div class="entry-header-inner section-inner medium">
+<div class="entry-categories">
+<span class="screen-reader-text">Categories</span>
+<div class="entry-categories-inner">
+<a href="https://scanova.io/blog/blog/category/qr-code-geography/americas/" rel="category tag">Americas</a> </div>
+</div>
+<h2 class="entry-title heading-size-1"><a href="https://scanova.io/blog/blog/2020/03/20/spotify-codes/">Spotify Codes: A New Way to Help Users Share Songs</a></h2>
+<div class="post-meta-wrapper post-meta-single post-meta-single-top">
+<ul class="post-meta">
+<li class="post-author meta-wrapper">
+<span class="meta-icon">
+<span class="screen-reader-text">Post author</span>
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20"><path fill="" d="M18,19 C18,19.5522847 17.5522847,20 17,20 C16.4477153,20 16,19.5522847 16,19 L16,17 C16,15.3431458 14.6568542,14 13,14 L5,14 C3.34314575,14 2,15.3431458 2,17 L2,19 C2,19.5522847 1.55228475,20 1,20 C0.44771525,20 0,19.5522847 0,19 L0,17 C0,14.2385763 2.23857625,12 5,12 L13,12 C15.7614237,12 18,14.2385763 18,17 L18,19 Z M9,10 C6.23857625,10 4,7.76142375 4,5 C4,2.23857625 6.23857625,0 9,0 C11.7614237,0 14,2.23857625 14,5 C14,7.76142375 11.7614237,10 9,10 Z M9,8 C10.6568542,8 12,6.65685425 12,5 C12,3.34314575 10.6568542,2 9,2 C7.34314575,2 6,3.34314575 6,5 C6,6.65685425 7.34314575,8 9,8 Z" /></svg> </span>
+<span class="meta-text">
+By <a href="https://scanova.io/blog/blog/author/saumyabhatia/">Saumya Bhatia</a> </span>
+</li>
+<li class="post-date meta-wrapper">
+<span class="meta-icon">
+<span class="screen-reader-text">Post date</span>
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z" /></svg> </span>
+<span class="meta-text">
+<a href="https://scanova.io/blog/blog/2020/03/20/spotify-codes/">March 20, 2020</a>
+</span>
+</li> 
+<li class="post-comment-link meta-wrapper">
+<span class="meta-icon">
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19"><path d="M9.43016863,13.2235931 C9.58624731,13.094699 9.7823475,13.0241935 9.98476849,13.0241935 L15.0564516,13.0241935 C15.8581553,13.0241935 16.5080645,12.3742843 16.5080645,11.5725806 L16.5080645,3.44354839 C16.5080645,2.64184472 15.8581553,1.99193548 15.0564516,1.99193548 L3.44354839,1.99193548 C2.64184472,1.99193548 1.99193548,2.64184472 1.99193548,3.44354839 L1.99193548,11.5725806 C1.99193548,12.3742843 2.64184472,13.0241935 3.44354839,13.0241935 L5.76612903,13.0241935 C6.24715123,13.0241935 6.63709677,13.4141391 6.63709677,13.8951613 L6.63709677,15.5301903 L9.43016863,13.2235931 Z M3.44354839,14.766129 C1.67980032,14.766129 0.25,13.3363287 0.25,11.5725806 L0.25,3.44354839 C0.25,1.67980032 1.67980032,0.25 3.44354839,0.25 L15.0564516,0.25 C16.8201997,0.25 18.25,1.67980032 18.25,3.44354839 L18.25,11.5725806 C18.25,13.3363287 16.8201997,14.766129 15.0564516,14.766129 L10.2979143,14.766129 L6.32072889,18.0506004 C5.75274472,18.5196577 4.89516129,18.1156602 4.89516129,17.3790323 L4.89516129,14.766129 L3.44354839,14.766129 Z" /></svg> </span>
+<span class="meta-text">
+<a href="https://scanova.io/blog/blog/2020/03/20/spotify-codes/#respond">No Comments<span class="screen-reader-text"> on Spotify Codes: A New Way to Help Users Share Songs</span></a> </span>
+</li>
+</ul>
+</div>
+</div>
+</header>
+<figure class="featured-media">
+<div class="featured-media-inner section-inner medium">
+<img loading="lazy" width="900" height="900" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20900%20900'%3E%3C/svg%3E" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Spotify QR Codes" data-lazy-srcset="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2017/05/Spotify-QR-Codes.jpg 900w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2017/05/Spotify-QR-Codes-150x150.jpg 150w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2017/05/Spotify-QR-Codes-300x300.jpg 300w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2017/05/Spotify-QR-Codes-768x768.jpg 768w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2017/05/Spotify-QR-Codes-65x65.jpg 65w" data-lazy-sizes="(max-width: 900px) 100vw, 900px" data-lazy-src="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2017/05/Spotify-QR-Codes.jpg" /><noscript><img width="900" height="900" src="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2017/05/Spotify-QR-Codes.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Spotify QR Codes" srcset="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2017/05/Spotify-QR-Codes.jpg 900w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2017/05/Spotify-QR-Codes-150x150.jpg 150w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2017/05/Spotify-QR-Codes-300x300.jpg 300w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2017/05/Spotify-QR-Codes-768x768.jpg 768w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2017/05/Spotify-QR-Codes-65x65.jpg 65w" sizes="(max-width: 900px) 100vw, 900px" /></noscript>
+</div>
+</figure>
+<div class="post-inner thin ">
+<div class="entry-content">
+<p>Spotify is one of the most popular music streaming services today. I am sure you have it installed on your phone and listen to music daily.&nbsp; Plus, you know that QR Codes are being used in almost every area today, to which music is no exception. And your favourite music app—Spotify also got a QR [&hellip;]</p>
+</div>
+</div>
+<div class="section-inner">
+<div class="post-meta-wrapper post-meta-single post-meta-single-bottom">
+<ul class="post-meta">
+<li class="post-tags meta-wrapper">
+<span class="meta-icon">
+<span class="screen-reader-text">Tags</span>
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 18 18"><path fill="" d="M15.4496399,8.42490555 L8.66109799,1.63636364 L1.63636364,1.63636364 L1.63636364,8.66081885 L8.42522727,15.44178 C8.57869221,15.5954158 8.78693789,15.6817418 9.00409091,15.6817418 C9.22124393,15.6817418 9.42948961,15.5954158 9.58327627,15.4414581 L15.4486339,9.57610048 C15.7651495,9.25692435 15.7649133,8.74206554 15.4496399,8.42490555 Z M16.6084423,10.7304545 L10.7406818,16.59822 C10.280287,17.0591273 9.65554997,17.3181054 9.00409091,17.3181054 C8.35263185,17.3181054 7.72789481,17.0591273 7.26815877,16.5988788 L0.239976954,9.57887876 C0.0863319284,9.4254126 0,9.21716044 0,9 L0,0.818181818 C0,0.366312477 0.366312477,0 0.818181818,0 L9,0 C9.21699531,0 9.42510306,0.0862010512 9.57854191,0.239639906 L16.6084423,7.26954545 C17.5601275,8.22691012 17.5601275,9.77308988 16.6084423,10.7304545 Z M5,6 C4.44771525,6 4,5.55228475 4,5 C4,4.44771525 4.44771525,4 5,4 C5.55228475,4 6,4.44771525 6,5 C6,5.55228475 5.55228475,6 5,6 Z" /></svg> </span>
+<span class="meta-text">
+<a href="https://scanova.io/blog/blog/tag/qr-code-news/" rel="tag">QR CODE NEWS</a> </span>
+</li>
+</ul>
+</div>
+</div>
+</article>
+<hr class="post-separator styled-separator is-style-wide section-inner" aria-hidden="true" />
+<article class="post-9259 post type-post status-publish format-standard hentry category-qr-code" id="post-9259">
+<header class="entry-header has-text-align-center">
+<div class="entry-header-inner section-inner medium">
+<div class="entry-categories">
+<span class="screen-reader-text">Categories</span>
+<div class="entry-categories-inner">
+<a href="https://scanova.io/blog/blog/category/qr-code/" rel="category tag">QR Codes</a> </div>
+</div>
+<h2 class="entry-title heading-size-1"><a href="https://scanova.io/blog/blog/2019/08/16/qr-codes-to-tackle-misuse-of-tourism-ministry-monogram-in-india/">QR Codes To Tackle Misuse Of Tourism Ministry Monogram In India</a></h2>
+<div class="post-meta-wrapper post-meta-single post-meta-single-top">
+<ul class="post-meta">
+<li class="post-author meta-wrapper">
+<span class="meta-icon">
+<span class="screen-reader-text">Post author</span>
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20"><path fill="" d="M18,19 C18,19.5522847 17.5522847,20 17,20 C16.4477153,20 16,19.5522847 16,19 L16,17 C16,15.3431458 14.6568542,14 13,14 L5,14 C3.34314575,14 2,15.3431458 2,17 L2,19 C2,19.5522847 1.55228475,20 1,20 C0.44771525,20 0,19.5522847 0,19 L0,17 C0,14.2385763 2.23857625,12 5,12 L13,12 C15.7614237,12 18,14.2385763 18,17 L18,19 Z M9,10 C6.23857625,10 4,7.76142375 4,5 C4,2.23857625 6.23857625,0 9,0 C11.7614237,0 14,2.23857625 14,5 C14,7.76142375 11.7614237,10 9,10 Z M9,8 C10.6568542,8 12,6.65685425 12,5 C12,3.34314575 10.6568542,2 9,2 C7.34314575,2 6,3.34314575 6,5 C6,6.65685425 7.34314575,8 9,8 Z" /></svg> </span>
+<span class="meta-text">
+By <a href="https://scanova.io/blog/blog/author/saumyabhatia/">Saumya Bhatia</a> </span>
+</li>
+<li class="post-date meta-wrapper">
+<span class="meta-icon">
+<span class="screen-reader-text">Post date</span>
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z" /></svg> </span>
+<span class="meta-text">
+<a href="https://scanova.io/blog/blog/2019/08/16/qr-codes-to-tackle-misuse-of-tourism-ministry-monogram-in-india/">August 16, 2019</a>
+</span>
+</li>
+<li class="post-comment-link meta-wrapper">
+<span class="meta-icon">
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19"><path d="M9.43016863,13.2235931 C9.58624731,13.094699 9.7823475,13.0241935 9.98476849,13.0241935 L15.0564516,13.0241935 C15.8581553,13.0241935 16.5080645,12.3742843 16.5080645,11.5725806 L16.5080645,3.44354839 C16.5080645,2.64184472 15.8581553,1.99193548 15.0564516,1.99193548 L3.44354839,1.99193548 C2.64184472,1.99193548 1.99193548,2.64184472 1.99193548,3.44354839 L1.99193548,11.5725806 C1.99193548,12.3742843 2.64184472,13.0241935 3.44354839,13.0241935 L5.76612903,13.0241935 C6.24715123,13.0241935 6.63709677,13.4141391 6.63709677,13.8951613 L6.63709677,15.5301903 L9.43016863,13.2235931 Z M3.44354839,14.766129 C1.67980032,14.766129 0.25,13.3363287 0.25,11.5725806 L0.25,3.44354839 C0.25,1.67980032 1.67980032,0.25 3.44354839,0.25 L15.0564516,0.25 C16.8201997,0.25 18.25,1.67980032 18.25,3.44354839 L18.25,11.5725806 C18.25,13.3363287 16.8201997,14.766129 15.0564516,14.766129 L10.2979143,14.766129 L6.32072889,18.0506004 C5.75274472,18.5196577 4.89516129,18.1156602 4.89516129,17.3790323 L4.89516129,14.766129 L3.44354839,14.766129 Z" /></svg> </span>
+<span class="meta-text">
+<a href="https://scanova.io/blog/blog/2019/08/16/qr-codes-to-tackle-misuse-of-tourism-ministry-monogram-in-india/#respond">No Comments<span class="screen-reader-text"> on QR Codes To Tackle Misuse Of Tourism Ministry Monogram In India</span></a> </span>
+</li>
+</ul>
+</div>
+</div>
+</header>
+<div class="post-inner thin ">
+<div class="entry-content">
+<p>Any bad travel or hotel experience leaves a mark. And this is especially true when you realise you have been mugged off. Yet there is probably no way to check the authenticity of service provider. All you can do after knowing is— complain. And that takes time too. This becomes more complicated when you visit [&hellip;]</p>
+</div>
+</div>
+<div class="section-inner">
+</div>
+</article>
+<hr class="post-separator styled-separator is-style-wide section-inner" aria-hidden="true" />
+<article class="post-9251 post type-post status-publish format-standard hentry category-qr-code" id="post-9251">
+<header class="entry-header has-text-align-center">
+<div class="entry-header-inner section-inner medium">
+<div class="entry-categories">
+<span class="screen-reader-text">Categories</span>
+<div class="entry-categories-inner">
+<a href="https://scanova.io/blog/blog/category/qr-code/" rel="category tag">QR Codes</a> </div>
+</div>
+<h2 class="entry-title heading-size-1"><a href="https://scanova.io/blog/blog/2019/08/16/qr-codes-run-auto-rickshaws-to-ensure-road-safety-in-hyderabad/">QR Codes Run Auto-Rickshaws To Ensure Road Safety In Hyderabad</a></h2>
+<div class="post-meta-wrapper post-meta-single post-meta-single-top">
+<ul class="post-meta">
+<li class="post-author meta-wrapper">
+<span class="meta-icon">
+<span class="screen-reader-text">Post author</span>
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20"><path fill="" d="M18,19 C18,19.5522847 17.5522847,20 17,20 C16.4477153,20 16,19.5522847 16,19 L16,17 C16,15.3431458 14.6568542,14 13,14 L5,14 C3.34314575,14 2,15.3431458 2,17 L2,19 C2,19.5522847 1.55228475,20 1,20 C0.44771525,20 0,19.5522847 0,19 L0,17 C0,14.2385763 2.23857625,12 5,12 L13,12 C15.7614237,12 18,14.2385763 18,17 L18,19 Z M9,10 C6.23857625,10 4,7.76142375 4,5 C4,2.23857625 6.23857625,0 9,0 C11.7614237,0 14,2.23857625 14,5 C14,7.76142375 11.7614237,10 9,10 Z M9,8 C10.6568542,8 12,6.65685425 12,5 C12,3.34314575 10.6568542,2 9,2 C7.34314575,2 6,3.34314575 6,5 C6,6.65685425 7.34314575,8 9,8 Z" /></svg> </span>
+<span class="meta-text">
+By <a href="https://scanova.io/blog/blog/author/saumyabhatia/">Saumya Bhatia</a> </span>
+</li>
+<li class="post-date meta-wrapper">
+<span class="meta-icon">
+<span class="screen-reader-text">Post date</span>
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z" /></svg> </span>
+<span class="meta-text">
+<a href="https://scanova.io/blog/blog/2019/08/16/qr-codes-run-auto-rickshaws-to-ensure-road-safety-in-hyderabad/">August 16, 2019</a>
+</span>
+</li>
+<li class="post-comment-link meta-wrapper">
+<span class="meta-icon">
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19"><path d="M9.43016863,13.2235931 C9.58624731,13.094699 9.7823475,13.0241935 9.98476849,13.0241935 L15.0564516,13.0241935 C15.8581553,13.0241935 16.5080645,12.3742843 16.5080645,11.5725806 L16.5080645,3.44354839 C16.5080645,2.64184472 15.8581553,1.99193548 15.0564516,1.99193548 L3.44354839,1.99193548 C2.64184472,1.99193548 1.99193548,2.64184472 1.99193548,3.44354839 L1.99193548,11.5725806 C1.99193548,12.3742843 2.64184472,13.0241935 3.44354839,13.0241935 L5.76612903,13.0241935 C6.24715123,13.0241935 6.63709677,13.4141391 6.63709677,13.8951613 L6.63709677,15.5301903 L9.43016863,13.2235931 Z M3.44354839,14.766129 C1.67980032,14.766129 0.25,13.3363287 0.25,11.5725806 L0.25,3.44354839 C0.25,1.67980032 1.67980032,0.25 3.44354839,0.25 L15.0564516,0.25 C16.8201997,0.25 18.25,1.67980032 18.25,3.44354839 L18.25,11.5725806 C18.25,13.3363287 16.8201997,14.766129 15.0564516,14.766129 L10.2979143,14.766129 L6.32072889,18.0506004 C5.75274472,18.5196577 4.89516129,18.1156602 4.89516129,17.3790323 L4.89516129,14.766129 L3.44354839,14.766129 Z" /></svg> </span>
+<span class="meta-text">
+<a href="https://scanova.io/blog/blog/2019/08/16/qr-codes-run-auto-rickshaws-to-ensure-road-safety-in-hyderabad/#respond">No Comments<span class="screen-reader-text"> on QR Codes Run Auto-Rickshaws To Ensure Road Safety In Hyderabad</span></a> </span>
+</li>
+</ul>
+</div>
+</div>
+</header>
+<div class="post-inner thin ">
+<div class="entry-content">
+<p>You all travel on roads and know how road safety is so important. Many times you yourself do not follow traffic rules and end up regretting it. Also, the incidents of road accidents have skyrocketed in the last few years. And seeking justice for them is not a smooth task. You have to register a [&hellip;]</p>
+</div>
+</div>
+<div class="section-inner">
+</div>
+</article>
+<hr class="post-separator styled-separator is-style-wide section-inner" aria-hidden="true" />
+<article class="post-9244 post type-post status-publish format-standard hentry category-qr-code" id="post-9244">
+<header class="entry-header has-text-align-center">
+<div class="entry-header-inner section-inner medium">
+<div class="entry-categories">
+<span class="screen-reader-text">Categories</span>
+<div class="entry-categories-inner">
+<a href="https://scanova.io/blog/blog/category/qr-code/" rel="category tag">QR Codes</a> </div>
+</div>
+<h2 class="entry-title heading-size-1"><a href="https://scanova.io/blog/blog/2019/08/14/business-use-qr-codes/">Eight Reasons Why Your Business Should Use QR Code Solutions</a></h2>
+<div class="post-meta-wrapper post-meta-single post-meta-single-top">
+<ul class="post-meta">
+<li class="post-author meta-wrapper">
+<span class="meta-icon">
+<span class="screen-reader-text">Post author</span>
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20"><path fill="" d="M18,19 C18,19.5522847 17.5522847,20 17,20 C16.4477153,20 16,19.5522847 16,19 L16,17 C16,15.3431458 14.6568542,14 13,14 L5,14 C3.34314575,14 2,15.3431458 2,17 L2,19 C2,19.5522847 1.55228475,20 1,20 C0.44771525,20 0,19.5522847 0,19 L0,17 C0,14.2385763 2.23857625,12 5,12 L13,12 C15.7614237,12 18,14.2385763 18,17 L18,19 Z M9,10 C6.23857625,10 4,7.76142375 4,5 C4,2.23857625 6.23857625,0 9,0 C11.7614237,0 14,2.23857625 14,5 C14,7.76142375 11.7614237,10 9,10 Z M9,8 C10.6568542,8 12,6.65685425 12,5 C12,3.34314575 10.6568542,2 9,2 C7.34314575,2 6,3.34314575 6,5 C6,6.65685425 7.34314575,8 9,8 Z" /></svg> </span>
+<span class="meta-text">
+By <a href="https://scanova.io/blog/blog/author/yashikatangri/">Yashika Tangri</a> </span>
+</li>
+<li class="post-date meta-wrapper">
+<span class="meta-icon">
+<span class="screen-reader-text">Post date</span>
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z" /></svg> </span>
+<span class="meta-text">
+<a href="https://scanova.io/blog/blog/2019/08/14/business-use-qr-codes/">August 14, 2019</a>
+</span>
+</li>
+<li class="post-comment-link meta-wrapper">
+<span class="meta-icon">
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19"><path d="M9.43016863,13.2235931 C9.58624731,13.094699 9.7823475,13.0241935 9.98476849,13.0241935 L15.0564516,13.0241935 C15.8581553,13.0241935 16.5080645,12.3742843 16.5080645,11.5725806 L16.5080645,3.44354839 C16.5080645,2.64184472 15.8581553,1.99193548 15.0564516,1.99193548 L3.44354839,1.99193548 C2.64184472,1.99193548 1.99193548,2.64184472 1.99193548,3.44354839 L1.99193548,11.5725806 C1.99193548,12.3742843 2.64184472,13.0241935 3.44354839,13.0241935 L5.76612903,13.0241935 C6.24715123,13.0241935 6.63709677,13.4141391 6.63709677,13.8951613 L6.63709677,15.5301903 L9.43016863,13.2235931 Z M3.44354839,14.766129 C1.67980032,14.766129 0.25,13.3363287 0.25,11.5725806 L0.25,3.44354839 C0.25,1.67980032 1.67980032,0.25 3.44354839,0.25 L15.0564516,0.25 C16.8201997,0.25 18.25,1.67980032 18.25,3.44354839 L18.25,11.5725806 C18.25,13.3363287 16.8201997,14.766129 15.0564516,14.766129 L10.2979143,14.766129 L6.32072889,18.0506004 C5.75274472,18.5196577 4.89516129,18.1156602 4.89516129,17.3790323 L4.89516129,14.766129 L3.44354839,14.766129 Z" /></svg> </span>
+<span class="meta-text">
+<a href="https://scanova.io/blog/blog/2019/08/14/business-use-qr-codes/#respond">No Comments<span class="screen-reader-text"> on Eight Reasons Why Your Business Should Use QR Code Solutions</span></a> </span>
+</li>
+</ul>
+</div>
+</div>
+</header>
+<div class="post-inner thin ">
+<div class="entry-content">
+<p>A Quick Response Code, or QR code for short, had its beginnings in Japan in 1994. It was where automobile companies first used it to store information about various items. And due to its capability to contain larger volumes of data, it soon gained traction outside the industry too. Brands quickly made good use of [&hellip;]</p>
+</div>
+</div>
+<div class="section-inner">
+</div>
+</article>
+<hr class="post-separator styled-separator is-style-wide section-inner" aria-hidden="true" />
+<article class="post-8731 post type-post status-publish format-standard has-post-thumbnail hentry category-qr-code" id="post-8731">
+<header class="entry-header has-text-align-center">
+<div class="entry-header-inner section-inner medium">
+<div class="entry-categories">
+<span class="screen-reader-text">Categories</span>
+<div class="entry-categories-inner">
+<a href="https://scanova.io/blog/blog/category/qr-code/" rel="category tag">QR Codes</a> </div>
+</div>
+<h2 class="entry-title heading-size-1"><a href="https://scanova.io/blog/blog/2019/04/25/nestle-and-carrefour-track-mashed-potato/">Nestle And Carrefour To Track Mashed Potato To Ensure Product Transparency</a></h2>
+<div class="post-meta-wrapper post-meta-single post-meta-single-top">
+<ul class="post-meta">
+<li class="post-author meta-wrapper">
+<span class="meta-icon">
+<span class="screen-reader-text">Post author</span>
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20"><path fill="" d="M18,19 C18,19.5522847 17.5522847,20 17,20 C16.4477153,20 16,19.5522847 16,19 L16,17 C16,15.3431458 14.6568542,14 13,14 L5,14 C3.34314575,14 2,15.3431458 2,17 L2,19 C2,19.5522847 1.55228475,20 1,20 C0.44771525,20 0,19.5522847 0,19 L0,17 C0,14.2385763 2.23857625,12 5,12 L13,12 C15.7614237,12 18,14.2385763 18,17 L18,19 Z M9,10 C6.23857625,10 4,7.76142375 4,5 C4,2.23857625 6.23857625,0 9,0 C11.7614237,0 14,2.23857625 14,5 C14,7.76142375 11.7614237,10 9,10 Z M9,8 C10.6568542,8 12,6.65685425 12,5 C12,3.34314575 10.6568542,2 9,2 C7.34314575,2 6,3.34314575 6,5 C6,6.65685425 7.34314575,8 9,8 Z" /></svg> </span>
+<span class="meta-text">
+By <a href="https://scanova.io/blog/blog/author/yashikatangri/">Yashika Tangri</a> </span>
+</li>
+<li class="post-date meta-wrapper">
+<span class="meta-icon">
+<span class="screen-reader-text">Post date</span>
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z" /></svg> </span>
+<span class="meta-text">
+<a href="https://scanova.io/blog/blog/2019/04/25/nestle-and-carrefour-track-mashed-potato/">April 25, 2019</a>
+</span>
+</li>
+<li class="post-comment-link meta-wrapper">
+<span class="meta-icon">
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19"><path d="M9.43016863,13.2235931 C9.58624731,13.094699 9.7823475,13.0241935 9.98476849,13.0241935 L15.0564516,13.0241935 C15.8581553,13.0241935 16.5080645,12.3742843 16.5080645,11.5725806 L16.5080645,3.44354839 C16.5080645,2.64184472 15.8581553,1.99193548 15.0564516,1.99193548 L3.44354839,1.99193548 C2.64184472,1.99193548 1.99193548,2.64184472 1.99193548,3.44354839 L1.99193548,11.5725806 C1.99193548,12.3742843 2.64184472,13.0241935 3.44354839,13.0241935 L5.76612903,13.0241935 C6.24715123,13.0241935 6.63709677,13.4141391 6.63709677,13.8951613 L6.63709677,15.5301903 L9.43016863,13.2235931 Z M3.44354839,14.766129 C1.67980032,14.766129 0.25,13.3363287 0.25,11.5725806 L0.25,3.44354839 C0.25,1.67980032 1.67980032,0.25 3.44354839,0.25 L15.0564516,0.25 C16.8201997,0.25 18.25,1.67980032 18.25,3.44354839 L18.25,11.5725806 C18.25,13.3363287 16.8201997,14.766129 15.0564516,14.766129 L10.2979143,14.766129 L6.32072889,18.0506004 C5.75274472,18.5196577 4.89516129,18.1156602 4.89516129,17.3790323 L4.89516129,14.766129 L3.44354839,14.766129 Z" /></svg> </span>
+<span class="meta-text">
+<a href="https://scanova.io/blog/blog/2019/04/25/nestle-and-carrefour-track-mashed-potato/#respond">No Comments<span class="screen-reader-text"> on Nestle And Carrefour To Track Mashed Potato To Ensure Product Transparency</span></a> </span>
+</li>
+</ul>
+</div>
+</div>
+</header>
+<figure class="featured-media">
+<div class="featured-media-inner section-inner medium">
+<img loading="lazy" width="500" height="281" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20281'%3E%3C/svg%3E" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Nestle and Carrefour track mashed potato: logo" data-lazy-srcset="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/04/nestle-and-carrefour-track-mashed-potato-1.png 500w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/04/nestle-and-carrefour-track-mashed-potato-1-300x169.png 300w" data-lazy-sizes="(max-width: 500px) 100vw, 500px" data-lazy-src="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/04/nestle-and-carrefour-track-mashed-potato-1.png" /><noscript><img width="500" height="281" src="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/04/nestle-and-carrefour-track-mashed-potato-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Nestle and Carrefour track mashed potato: logo" srcset="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/04/nestle-and-carrefour-track-mashed-potato-1.png 500w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/04/nestle-and-carrefour-track-mashed-potato-1-300x169.png 300w" sizes="(max-width: 500px) 100vw, 500px" /></noscript>
+</div>
+</figure>
+<div class="post-inner thin ">
+<div class="entry-content">
+<p>Nestle and Carrefour—the food giants—have been in the food sector for quite many years. In Apr 2019, the two food giants announced that they’re working on a pilot project. It will apply blockchain technology to the mashed potatoes. This move is aimed at promoting product transparency. The collaboration will help retailers and customers access product [&hellip;]</p>
+</div>
+</div>
+<div class="section-inner">
+</div>
+</article>
+<hr class="post-separator styled-separator is-style-wide section-inner" aria-hidden="true" />
+<article class="post-8702 post type-post status-publish format-standard has-post-thumbnail hentry category-qr-code" id="post-8702">
+<header class="entry-header has-text-align-center">
+<div class="entry-header-inner section-inner medium">
+<div class="entry-categories">
+<span class="screen-reader-text">Categories</span>
+<div class="entry-categories-inner">
+<a href="https://scanova.io/blog/blog/category/qr-code/" rel="category tag">QR Codes</a> </div>
+</div>
+<h2 class="entry-title heading-size-1"><a href="https://scanova.io/blog/blog/2019/03/26/kent-cameye/">Kent CamEye: A Device To Help You Keep An Eye On Your Car</a></h2>
+<div class="post-meta-wrapper post-meta-single post-meta-single-top">
+<ul class="post-meta">
+<li class="post-author meta-wrapper">
+<span class="meta-icon">
+<span class="screen-reader-text">Post author</span>
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20"><path fill="" d="M18,19 C18,19.5522847 17.5522847,20 17,20 C16.4477153,20 16,19.5522847 16,19 L16,17 C16,15.3431458 14.6568542,14 13,14 L5,14 C3.34314575,14 2,15.3431458 2,17 L2,19 C2,19.5522847 1.55228475,20 1,20 C0.44771525,20 0,19.5522847 0,19 L0,17 C0,14.2385763 2.23857625,12 5,12 L13,12 C15.7614237,12 18,14.2385763 18,17 L18,19 Z M9,10 C6.23857625,10 4,7.76142375 4,5 C4,2.23857625 6.23857625,0 9,0 C11.7614237,0 14,2.23857625 14,5 C14,7.76142375 11.7614237,10 9,10 Z M9,8 C10.6568542,8 12,6.65685425 12,5 C12,3.34314575 10.6568542,2 9,2 C7.34314575,2 6,3.34314575 6,5 C6,6.65685425 7.34314575,8 9,8 Z" /></svg> </span>
+<span class="meta-text">
+By <a href="https://scanova.io/blog/blog/author/yashikatangri/">Yashika Tangri</a> </span>
+</li>
+<li class="post-date meta-wrapper">
+<span class="meta-icon">
+<span class="screen-reader-text">Post date</span>
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z" /></svg> </span>
+<span class="meta-text">
+<a href="https://scanova.io/blog/blog/2019/03/26/kent-cameye/">March 26, 2019</a>
+</span>
+</li>
+<li class="post-comment-link meta-wrapper">
+<span class="meta-icon">
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19"><path d="M9.43016863,13.2235931 C9.58624731,13.094699 9.7823475,13.0241935 9.98476849,13.0241935 L15.0564516,13.0241935 C15.8581553,13.0241935 16.5080645,12.3742843 16.5080645,11.5725806 L16.5080645,3.44354839 C16.5080645,2.64184472 15.8581553,1.99193548 15.0564516,1.99193548 L3.44354839,1.99193548 C2.64184472,1.99193548 1.99193548,2.64184472 1.99193548,3.44354839 L1.99193548,11.5725806 C1.99193548,12.3742843 2.64184472,13.0241935 3.44354839,13.0241935 L5.76612903,13.0241935 C6.24715123,13.0241935 6.63709677,13.4141391 6.63709677,13.8951613 L6.63709677,15.5301903 L9.43016863,13.2235931 Z M3.44354839,14.766129 C1.67980032,14.766129 0.25,13.3363287 0.25,11.5725806 L0.25,3.44354839 C0.25,1.67980032 1.67980032,0.25 3.44354839,0.25 L15.0564516,0.25 C16.8201997,0.25 18.25,1.67980032 18.25,3.44354839 L18.25,11.5725806 C18.25,13.3363287 16.8201997,14.766129 15.0564516,14.766129 L10.2979143,14.766129 L6.32072889,18.0506004 C5.75274472,18.5196577 4.89516129,18.1156602 4.89516129,17.3790323 L4.89516129,14.766129 L3.44354839,14.766129 Z" /></svg> </span>
+<span class="meta-text">
+<a href="https://scanova.io/blog/blog/2019/03/26/kent-cameye/#respond">No Comments<span class="screen-reader-text"> on Kent CamEye: A Device To Help You Keep An Eye On Your Car</span></a> </span>
+</li>
+</ul>
+</div>
+</div>
+</header>
+<figure class="featured-media">
+<div class="featured-media-inner section-inner medium">
+<img loading="lazy" width="500" height="210" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20210'%3E%3C/svg%3E" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" data-lazy-srcset="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/03/Kent-cameye-2.jpg 500w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/03/Kent-cameye-2-300x126.jpg 300w" data-lazy-sizes="(max-width: 500px) 100vw, 500px" data-lazy-src="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/03/Kent-cameye-2.jpg" /><noscript><img width="500" height="210" src="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/03/Kent-cameye-2.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/03/Kent-cameye-2.jpg 500w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/03/Kent-cameye-2-300x126.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></noscript>
+</div>
+</figure>
+<div class="post-inner thin ">
+<div class="entry-content">
+<p>Say you have a chauffeur-driven car. Wouldn&#8217;t you like to keep an eye on the car? And ensure that the driver doesn’t misuse your car? To help you do this, Kent RO systems has launched Kent CamEye. It is an easy do-it-yourself (DIY) installation. Kent CamEye aims to monitor activities such as over-speeding, rash driving, [&hellip;]</p>
+</div>
+</div>
+<div class="section-inner">
+</div>
+</article>
+<hr class="post-separator styled-separator is-style-wide section-inner" aria-hidden="true" />
+<article class="post-8669 post type-post status-publish format-standard has-post-thumbnail hentry category-qr-code" id="post-8669">
+<header class="entry-header has-text-align-center">
+<div class="entry-header-inner section-inner medium">
+<div class="entry-categories">
+<span class="screen-reader-text">Categories</span>
+<div class="entry-categories-inner">
+<a href="https://scanova.io/blog/blog/category/qr-code/" rel="category tag">QR Codes</a> </div>
+</div>
+<h2 class="entry-title heading-size-1"><a href="https://scanova.io/blog/blog/2019/03/14/kerala-textbooks-qr-codes/">Textbooks In Kerala To Have QR Codes: A Step Towards Better Learning</a></h2>
+<div class="post-meta-wrapper post-meta-single post-meta-single-top">
+<ul class="post-meta">
+<li class="post-author meta-wrapper">
+<span class="meta-icon">
+<span class="screen-reader-text">Post author</span>
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20"><path fill="" d="M18,19 C18,19.5522847 17.5522847,20 17,20 C16.4477153,20 16,19.5522847 16,19 L16,17 C16,15.3431458 14.6568542,14 13,14 L5,14 C3.34314575,14 2,15.3431458 2,17 L2,19 C2,19.5522847 1.55228475,20 1,20 C0.44771525,20 0,19.5522847 0,19 L0,17 C0,14.2385763 2.23857625,12 5,12 L13,12 C15.7614237,12 18,14.2385763 18,17 L18,19 Z M9,10 C6.23857625,10 4,7.76142375 4,5 C4,2.23857625 6.23857625,0 9,0 C11.7614237,0 14,2.23857625 14,5 C14,7.76142375 11.7614237,10 9,10 Z M9,8 C10.6568542,8 12,6.65685425 12,5 C12,3.34314575 10.6568542,2 9,2 C7.34314575,2 6,3.34314575 6,5 C6,6.65685425 7.34314575,8 9,8 Z" /></svg> </span>
+<span class="meta-text">
+By <a href="https://scanova.io/blog/blog/author/yashikatangri/">Yashika Tangri</a> </span>
+</li>
+<li class="post-date meta-wrapper">
+<span class="meta-icon">
+<span class="screen-reader-text">Post date</span>
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z" /></svg> </span>
+<span class="meta-text">
+<a href="https://scanova.io/blog/blog/2019/03/14/kerala-textbooks-qr-codes/">March 14, 2019</a>
+</span>
+</li>
+<li class="post-comment-link meta-wrapper">
+<span class="meta-icon">
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19"><path d="M9.43016863,13.2235931 C9.58624731,13.094699 9.7823475,13.0241935 9.98476849,13.0241935 L15.0564516,13.0241935 C15.8581553,13.0241935 16.5080645,12.3742843 16.5080645,11.5725806 L16.5080645,3.44354839 C16.5080645,2.64184472 15.8581553,1.99193548 15.0564516,1.99193548 L3.44354839,1.99193548 C2.64184472,1.99193548 1.99193548,2.64184472 1.99193548,3.44354839 L1.99193548,11.5725806 C1.99193548,12.3742843 2.64184472,13.0241935 3.44354839,13.0241935 L5.76612903,13.0241935 C6.24715123,13.0241935 6.63709677,13.4141391 6.63709677,13.8951613 L6.63709677,15.5301903 L9.43016863,13.2235931 Z M3.44354839,14.766129 C1.67980032,14.766129 0.25,13.3363287 0.25,11.5725806 L0.25,3.44354839 C0.25,1.67980032 1.67980032,0.25 3.44354839,0.25 L15.0564516,0.25 C16.8201997,0.25 18.25,1.67980032 18.25,3.44354839 L18.25,11.5725806 C18.25,13.3363287 16.8201997,14.766129 15.0564516,14.766129 L10.2979143,14.766129 L6.32072889,18.0506004 C5.75274472,18.5196577 4.89516129,18.1156602 4.89516129,17.3790323 L4.89516129,14.766129 L3.44354839,14.766129 Z" /></svg> </span>
+<span class="meta-text">
+<a href="https://scanova.io/blog/blog/2019/03/14/kerala-textbooks-qr-codes/#comments">2 Comments<span class="screen-reader-text"> on Textbooks In Kerala To Have QR Codes: A Step Towards Better Learning</span></a> </span>
+</li>
+</ul>
+</div>
+</div>
+</header>
+<figure class="featured-media">
+<div class="featured-media-inner section-inner medium">
+<img loading="lazy" width="500" height="281" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20500%20281'%3E%3C/svg%3E" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" data-lazy-srcset="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/03/Kerala-textbooks-QR-Codes-2-1.png 500w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/03/Kerala-textbooks-QR-Codes-2-1-300x169.png 300w" data-lazy-sizes="(max-width: 500px) 100vw, 500px" data-lazy-src="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/03/Kerala-textbooks-QR-Codes-2-1.png" /><noscript><img width="500" height="281" src="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/03/Kerala-textbooks-QR-Codes-2-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/03/Kerala-textbooks-QR-Codes-2-1.png 500w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/03/Kerala-textbooks-QR-Codes-2-1-300x169.png 300w" sizes="(max-width: 500px) 100vw, 500px" /></noscript>
+</div>
+</figure>
+<div class="post-inner thin ">
+<div class="entry-content">
+<p>The purpose of a textbook is to help students learn. But let’s be honest—plain text can be dull and monotonous at times. But to get students to learn something, you must engage them with fun activities. And nothing beats technology in engaging them. To make learning easier and better for students, textbooks in Kerala (India) [&hellip;]</p>
+</div>
+</div>
+<div class="section-inner">
+</div>
+</article>
+<hr class="post-separator styled-separator is-style-wide section-inner" aria-hidden="true" />
+<article class="post-8662 post type-post status-publish format-standard has-post-thumbnail hentry category-qr-code" id="post-8662">
+<header class="entry-header has-text-align-center">
+<div class="entry-header-inner section-inner medium">
+<div class="entry-categories">
+<span class="screen-reader-text">Categories</span>
+<div class="entry-categories-inner">
+<a href="https://scanova.io/blog/blog/category/qr-code/" rel="category tag">QR Codes</a> </div>
+</div>
+<h2 class="entry-title heading-size-1"><a href="https://scanova.io/blog/blog/2019/03/11/takeme-pay/">TakeMe Pay: Japan Foodie’s New Payment Platform To Help Tourists</a></h2>
+<div class="post-meta-wrapper post-meta-single post-meta-single-top">
+<ul class="post-meta">
+<li class="post-author meta-wrapper">
+<span class="meta-icon">
+<span class="screen-reader-text">Post author</span>
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="20" viewBox="0 0 18 20"><path fill="" d="M18,19 C18,19.5522847 17.5522847,20 17,20 C16.4477153,20 16,19.5522847 16,19 L16,17 C16,15.3431458 14.6568542,14 13,14 L5,14 C3.34314575,14 2,15.3431458 2,17 L2,19 C2,19.5522847 1.55228475,20 1,20 C0.44771525,20 0,19.5522847 0,19 L0,17 C0,14.2385763 2.23857625,12 5,12 L13,12 C15.7614237,12 18,14.2385763 18,17 L18,19 Z M9,10 C6.23857625,10 4,7.76142375 4,5 C4,2.23857625 6.23857625,0 9,0 C11.7614237,0 14,2.23857625 14,5 C14,7.76142375 11.7614237,10 9,10 Z M9,8 C10.6568542,8 12,6.65685425 12,5 C12,3.34314575 10.6568542,2 9,2 C7.34314575,2 6,3.34314575 6,5 C6,6.65685425 7.34314575,8 9,8 Z" /></svg> </span>
+<span class="meta-text">
+By <a href="https://scanova.io/blog/blog/author/yashikatangri/">Yashika Tangri</a> </span>
+</li>
+<li class="post-date meta-wrapper">
+<span class="meta-icon">
+<span class="screen-reader-text">Post date</span>
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="18" height="19" viewBox="0 0 18 19"><path fill="" d="M4.60069444,4.09375 L3.25,4.09375 C2.47334957,4.09375 1.84375,4.72334957 1.84375,5.5 L1.84375,7.26736111 L16.15625,7.26736111 L16.15625,5.5 C16.15625,4.72334957 15.5266504,4.09375 14.75,4.09375 L13.3993056,4.09375 L13.3993056,4.55555556 C13.3993056,5.02154581 13.0215458,5.39930556 12.5555556,5.39930556 C12.0895653,5.39930556 11.7118056,5.02154581 11.7118056,4.55555556 L11.7118056,4.09375 L6.28819444,4.09375 L6.28819444,4.55555556 C6.28819444,5.02154581 5.9104347,5.39930556 5.44444444,5.39930556 C4.97845419,5.39930556 4.60069444,5.02154581 4.60069444,4.55555556 L4.60069444,4.09375 Z M6.28819444,2.40625 L11.7118056,2.40625 L11.7118056,1 C11.7118056,0.534009742 12.0895653,0.15625 12.5555556,0.15625 C13.0215458,0.15625 13.3993056,0.534009742 13.3993056,1 L13.3993056,2.40625 L14.75,2.40625 C16.4586309,2.40625 17.84375,3.79136906 17.84375,5.5 L17.84375,15.875 C17.84375,17.5836309 16.4586309,18.96875 14.75,18.96875 L3.25,18.96875 C1.54136906,18.96875 0.15625,17.5836309 0.15625,15.875 L0.15625,5.5 C0.15625,3.79136906 1.54136906,2.40625 3.25,2.40625 L4.60069444,2.40625 L4.60069444,1 C4.60069444,0.534009742 4.97845419,0.15625 5.44444444,0.15625 C5.9104347,0.15625 6.28819444,0.534009742 6.28819444,1 L6.28819444,2.40625 Z M1.84375,8.95486111 L1.84375,15.875 C1.84375,16.6516504 2.47334957,17.28125 3.25,17.28125 L14.75,17.28125 C15.5266504,17.28125 16.15625,16.6516504 16.15625,15.875 L16.15625,8.95486111 L1.84375,8.95486111 Z" /></svg> </span>
+<span class="meta-text">
+<a href="https://scanova.io/blog/blog/2019/03/11/takeme-pay/">March 11, 2019</a>
+</span>
+</li>
+<li class="post-comment-link meta-wrapper">
+<span class="meta-icon">
+<svg class="svg-icon" aria-hidden="true" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" width="19" height="19" viewBox="0 0 19 19"><path d="M9.43016863,13.2235931 C9.58624731,13.094699 9.7823475,13.0241935 9.98476849,13.0241935 L15.0564516,13.0241935 C15.8581553,13.0241935 16.5080645,12.3742843 16.5080645,11.5725806 L16.5080645,3.44354839 C16.5080645,2.64184472 15.8581553,1.99193548 15.0564516,1.99193548 L3.44354839,1.99193548 C2.64184472,1.99193548 1.99193548,2.64184472 1.99193548,3.44354839 L1.99193548,11.5725806 C1.99193548,12.3742843 2.64184472,13.0241935 3.44354839,13.0241935 L5.76612903,13.0241935 C6.24715123,13.0241935 6.63709677,13.4141391 6.63709677,13.8951613 L6.63709677,15.5301903 L9.43016863,13.2235931 Z M3.44354839,14.766129 C1.67980032,14.766129 0.25,13.3363287 0.25,11.5725806 L0.25,3.44354839 C0.25,1.67980032 1.67980032,0.25 3.44354839,0.25 L15.0564516,0.25 C16.8201997,0.25 18.25,1.67980032 18.25,3.44354839 L18.25,11.5725806 C18.25,13.3363287 16.8201997,14.766129 15.0564516,14.766129 L10.2979143,14.766129 L6.32072889,18.0506004 C5.75274472,18.5196577 4.89516129,18.1156602 4.89516129,17.3790323 L4.89516129,14.766129 L3.44354839,14.766129 Z" /></svg> </span>
+<span class="meta-text">
+<a href="https://scanova.io/blog/blog/2019/03/11/takeme-pay/#respond">No Comments<span class="screen-reader-text"> on TakeMe Pay: Japan Foodie’s New Payment Platform To Help Tourists</span></a> </span>
+</li>
+</ul>
+</div>
+</div>
+</header>
+<figure class="featured-media">
+<div class="featured-media-inner section-inner medium">
+<img loading="lazy" width="617" height="424" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20617%20424'%3E%3C/svg%3E" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="TakeMe Pay: logo" data-lazy-srcset="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/03/TakeMe-Pay-1-1.png 617w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/03/TakeMe-Pay-1-1-300x206.png 300w" data-lazy-sizes="(max-width: 617px) 100vw, 617px" data-lazy-src="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/03/TakeMe-Pay-1-1.png" /><noscript><img width="617" height="424" src="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/03/TakeMe-Pay-1-1.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="TakeMe Pay: logo" srcset="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/03/TakeMe-Pay-1-1.png 617w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2019/03/TakeMe-Pay-1-1-300x206.png 300w" sizes="(max-width: 617px) 100vw, 617px" /></noscript>
+</div>
+</figure>
+<div class="post-inner thin ">
+<div class="entry-content">
+<p>You know that Japan has 21 World Heritage Sites. These sites along with the country’s rich culture attract Millions of tourists every year. About two-thirds of tourists in Japan in 2017 were from Taiwan, South Korea, and China. Taking advantage of these factors, Japan Foodie, a restaurant search and discovery app, has launched TakeMe Pay. [&hellip;]</p>
+</div>
+</div>
+<div class="section-inner">
+</div>
+</article>
+
+<hr class="post-separator styled-separator is-style-wide section-inner" aria-hidden="true" />
+<article class="post-10990 page type-page status-publish has-post-thumbnail hentry" id="post-10990">
+<header class="entry-header has-text-align-center">
+<div class="entry-header-inner section-inner medium">
+<h2 class="entry-title heading-size-1"><a href="https://scanova.io/blog/qr-codes-for-contact-tracing/">QR Codes For Contact Tracing: How To Fight The Spread Of Corona</a></h2>
+</div>
+</header>
+<figure class="featured-media">
+<div class="featured-media-inner section-inner medium">
+<img loading="lazy" width="1200" height="720" src="data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201200%20720'%3E%3C/svg%3E" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="QR Code for contact tracing" data-lazy-srcset="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/07/qr-code-contact-tracing-4-1-1200x720.png 1200w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/07/qr-code-contact-tracing-4-1-300x180.png 300w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/07/qr-code-contact-tracing-4-1-768x461.png 768w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/07/qr-code-contact-tracing-4-1-1024x614.png 1024w" data-lazy-sizes="(max-width: 1200px) 100vw, 1200px" data-lazy-src="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/07/qr-code-contact-tracing-4-1-1200x720.png" /><noscript><img width="1200" height="720" src="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/07/qr-code-contact-tracing-4-1-1200x720.png" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="QR Code for contact tracing" srcset="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/07/qr-code-contact-tracing-4-1-1200x720.png 1200w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/07/qr-code-contact-tracing-4-1-300x180.png 300w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/07/qr-code-contact-tracing-4-1-768x461.png 768w, https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/uploads/2020/07/qr-code-contact-tracing-4-1-1024x614.png 1024w" sizes="(max-width: 1200px) 100vw, 1200px" /></noscript>
+</div>
+</figure>
+<div class="post-inner thin ">
+<div class="entry-content">
+<p>Coronavirus is highly contagious. Hence, it is difficult to trace the source from which a person can get infected. Countries are following the rule of social distancing and many have also declared a lockdown. Plus, governments are promoting people to take care of personal hygiene with the following steps: 1. Avoid touching your face (especially [&hellip;]</p>
+</div>
+</div>
+<div class="section-inner">
+</div>
+</article>
+
+
+
+<div class="pagination-wrapper section-inner">
+<hr class="styled-separator pagination-separator is-style-wide" aria-hidden="true" />
+<nav class="navigation pagination" role="navigation">
+<h2 class="screen-reader-text">Posts navigation</h2>
+<div class="nav-links"><span class="prev page-numbers placeholder" aria-hidden="true"><span aria-hidden="true">&larr;</span> <span class="nav-prev-text">Newer <span class="nav-short">Posts</span></span></span><span aria-current='page' class='page-numbers current'>1</span>
+<a class='page-numbers' href='https://scanova.io/blog/page/2/'>2</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class='page-numbers' href='https://scanova.io/blog/page/30/'>30</a>
+<a class="next page-numbers" href="https://scanova.io/blog/page/2/"><span class="nav-next-text">Older <span class="nav-short">Posts</span></span> <span aria-hidden="true">&rarr;</span></a></div>
+</nav>
+</div>
+</main>
+<div class="footer-nav-widgets-wrapper header-footer-group">
+<div class="footer-inner section-inner">
+<div class="footer-top has-footer-menu">
+<nav aria-label="Footer" role="navigation" class="footer-menu-wrapper">
+<ul class="footer-menu reset-list-style">
+<li id="menu-item-9879" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9879"><a href="https://scanova.io/features.html">Features</a></li>
+<li id="menu-item-9877" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9877"><a href="https://scanova.io/terms-of-use.html">Terms of Use</a></li>
+<li id="menu-item-9878" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9878"><a href="https://scanova.io/privacy-policy.html">Privacy Policy</a></li>
+<li id="menu-item-9881" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9881"><a href="https://scanova.io/contact-support.html">Support</a></li>
+<li id="menu-item-9880" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9880"><a href="https://help.scanova.io">Helpdesk</a></li>
+<li id="menu-item-9882" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-9882"><a href="https://app.scanova.io/api/accounts/register/">Free Trial</a></li>
+</ul>
+</nav>
+</div>
+</div>
+</div>
+<footer id="site-footer" role="contentinfo" class="header-footer-group">
+<div class="section-inner">
+<div class="footer-credits">
+<p class="footer-copyright">&copy;
+2020 <a href="https://scanova.io/blog/">Scanova Blog</a>
+</p>
+<p class="powered-by-wordpress">
+<a href="https://wordpress.org/">
+Powered by WordPress </a>
+</p>
+</div>
+<a class="to-the-top" href="#site-header">
+<span class="to-the-top-long">
+To the top <span class="arrow" aria-hidden="true">&uarr;</span> </span>
+<span class="to-the-top-short">
+Up <span class="arrow" aria-hidden="true">&uarr;</span> </span>
+</a>
+</div>
+</footer>
+<script src="//s3.amazonaws.com/scripts.hellobar.com/412a6140cf81dffe34853ed34922f62f9cf10229.js" type="97b2817447e8ef2ba111037e-text/javascript"></script><script type="97b2817447e8ef2ba111037e-text/javascript">
+/* <![CDATA[ */
+var author = {"name":""};
+/* ]]> */
+</script>
+<script type="97b2817447e8ef2ba111037e-text/javascript" src='https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/themes/twentytwenty/assets/js/google.js'></script>
+<script type="97b2817447e8ef2ba111037e-text/javascript" src='https://blog-trycontechnologi.netdna-ssl.com/blog/wp-includes/js/wp-embed.min.js'></script>
+<script type="97b2817447e8ef2ba111037e-text/javascript">
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+<script type="97b2817447e8ef2ba111037e-text/javascript">window.lazyLoadOptions = {
+                elements_selector: "[loading=lazy],.rocket-lazyload",
+                data_src: "lazy-src",
+                data_srcset: "lazy-srcset",
+                data_sizes: "lazy-sizes",
+                class_loading: "lazyloading",
+                class_loaded: "lazyloaded",
+                threshold: 300,
+                callback_loaded: function(element) {
+                    if ( element.tagName === "IFRAME" && element.dataset.rocketLazyload == "fitvidscompatible" ) {
+                        if (element.classList.contains("lazyloaded") ) {
+                            if (typeof window.jQuery != "undefined") {
+                                if (jQuery.fn.fitVids) {
+                                    jQuery(element).parent().fitVids();
+                                }
+                            }
+                        }
+                    }
+                },
+use_native: true};
+        window.addEventListener('LazyLoad::Initialized', function (e) {
+            var lazyLoadInstance = e.detail.instance;
+        
+            if (window.MutationObserver) {
+                var observer = new MutationObserver(function(mutations) {
+                    var image_count = 0;
+                    var iframe_count = 0;
+                    var rocketlazy_count = 0;
+
+                    mutations.forEach(function(mutation) {
+                        for (i = 0; i < mutation.addedNodes.length; i++) {
+                            if (typeof mutation.addedNodes[i].getElementsByTagName !== 'function') {
+                                return;
+                            }
+
+                           if (typeof mutation.addedNodes[i].getElementsByClassName !== 'function') {
+                                return;
+                            }
+
+                            images = mutation.addedNodes[i].getElementsByTagName('img');
+                            is_image = mutation.addedNodes[i].tagName == "IMG";
+                            iframes = mutation.addedNodes[i].getElementsByTagName('iframe');
+                            is_iframe = mutation.addedNodes[i].tagName == "IFRAME";
+                            rocket_lazy = mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');
+
+                            image_count += images.length;
+			                iframe_count += iframes.length;
+			                rocketlazy_count += rocket_lazy.length;
+                            
+                            if(is_image){
+                                image_count += 1;
+                            }
+
+                            if(is_iframe){
+                                iframe_count += 1;
+                            }
+                        }
+                    } );
+
+                    if(image_count > 0 || iframe_count > 0 || rocketlazy_count > 0){
+                        lazyLoadInstance.update();
+                    }
+                } );
+                
+                var b      = document.getElementsByTagName("body")[0];
+                var config = { childList: true, subtree: true };
+                
+                observer.observe(b, config);
+            }
+        }, false);</script><script data-no-minify="1" async src="https://blog-trycontechnologi.netdna-ssl.com/blog/wp-content/plugins/rocket-lazy-load/assets/js/12.0/lazyload.min.js" type="97b2817447e8ef2ba111037e-text/javascript"></script><script type="97b2817447e8ef2ba111037e-text/javascript">function lazyLoadThumb(e){var t='<img loading="lazy" data-lazy-src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"><noscript><img src="https://i.ytimg.com/vi/ID/hqdefault.jpg" alt="" width="480" height="360"></noscript>',a='<div class="play"></div>';return t.replace("ID",e)+a}function lazyLoadYoutubeIframe(){var e=document.createElement("iframe"),t="https://www.youtube.com/embed/ID?autoplay=1";t+=0===this.dataset.query.length?'':'&'+this.dataset.query;e.setAttribute("src",t.replace("ID",this.dataset.id)),e.setAttribute("frameborder","0"),e.setAttribute("allowfullscreen","1"),e.setAttribute("allow", "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"),this.parentNode.replaceChild(e,this)}document.addEventListener("DOMContentLoaded",function(){var e,t,a=document.getElementsByClassName("rll-youtube-player");for(t=0;t<a.length;t++)e=document.createElement("div"),e.setAttribute("data-id",a[t].dataset.id),e.setAttribute("data-query", a[t].dataset.query),e.innerHTML=lazyLoadThumb(a[t].dataset.id),e.onclick=lazyLoadYoutubeIframe,a[t].appendChild(e)});</script>
+<script src="https://ajax.cloudflare.com/cdn-cgi/scripts/7089c43e/cloudflare-static/rocket-loader.min.js" data-cf-settings="97b2817447e8ef2ba111037e-|49" defer=""></script></body>
+</html>
